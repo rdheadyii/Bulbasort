@@ -1,0 +1,14 @@
+{
+  "name": "bulbasort",
+  "version": "1.0.0",
+  "description": "pokemon team builder app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js",
+    "seed": "node seeds/seed.js"
+  },
+  "keywords": [],
+  "author": "rdheadyii, KingKonaTheFirst, Travis3214",
+  "license": "MIT"
+}
