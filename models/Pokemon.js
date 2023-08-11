@@ -29,7 +29,7 @@ Pokemon.init({
     timestamps: false,
     freezeTableName: true,
     underscored: true,
-    modelName: 'pokemon';
+    modelName: 'pokemon',
     }
 );
 module.exports = Pokemon;
