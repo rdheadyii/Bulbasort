@@ -14,12 +14,12 @@ Pokemon.init({
     type: DataTypes.STRING,
     allowNull: false,
   },
-  gameExclusive: {
+  version_game: {
     type: DataTypes.STRING,
     allowNull: false,
     reference: {
         model: 'game',
-        key: 'game'
+        key: 'name'
     },
   },
   
