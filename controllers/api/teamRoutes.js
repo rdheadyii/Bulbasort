@@ -39,7 +39,7 @@ router.post('/', withAuth, async (req, res) => {
 
 router.put('/:id', withAuth, async (req, res) => {
     try {
-        const teamData = await Team.update({
+        const teamData = await Team.update(req.body, {
             where: {
                 id: req.params.id,
                 user_id: req.session.user_id,
