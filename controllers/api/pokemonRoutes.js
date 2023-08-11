@@ -26,14 +26,16 @@ router.get('/:id', withAuth, async (req, res) => {
 
 // **************************DELETE***********************************************
 router.post('/', async (req, res) => {
-    try{
-        const pokemon = await Pokemon.findAll();
-        res.status(200).json(pokemon);
-    }
-    catch (err) {
-        console.error('failed to retreive pokemon', err);
-        res.status(500).json(err)
-    }
+    try {
+        const newPokemon = await Pokemon.create({
+          ...req.body,
+          user_id: req.session.user_id,
+        });
+    
+        res.status(200).json(newPokemon);
+      } catch (err) {
+        res.status(400).json(err);
+      }
 });
 // *****************************DELETE********************************************
 module.exports = router;
