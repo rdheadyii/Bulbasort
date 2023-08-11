@@ -2,6 +2,7 @@ const router = require('express').Router();
 const { Team } = require('../../models');
 const withAuth = require('../../utils/auth');
 
+// shows all teams
 router.get('/', async (req, res) => {
     try{
         const team = await Team.findAll();
@@ -13,6 +14,7 @@ router.get('/', async (req, res) => {
     }
 });
 
+// shows specific team
 router.get('/:id', async (req, res) => {
     try{
         const team = await Team.findByPk(req.body.id);
@@ -24,6 +26,7 @@ router.get('/:id', async (req, res) => {
     }
 });
 
+// creates new team
 router.post('/', withAuth, async (req, res) => {
     try{
         const newTeam = await Team.create({
@@ -37,6 +40,8 @@ router.post('/', withAuth, async (req, res) => {
     }
     });
 
+
+// updates the team
 router.put('/:id', withAuth, async (req, res) => {
     try {
         const teamData = await Team.update(req.body, {
@@ -57,6 +62,7 @@ router.put('/:id', withAuth, async (req, res) => {
     }
 })
 
+// deletes teams by id
 router.delete('/:id', withAuth, async (req, res) => {
     try {
         const teamData = await Team.destroy({
