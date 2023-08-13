@@ -1,1604 +1,1619 @@
 {
-    "svdex_db": [
+    "svid_db": [
         {
-            "Dex" : 1,
-            "Name" : "Sprigatito"
+            "id" : 1,
+            "name" : "Sprigatito",
+            "version_game": ""
         },
         {
-            "Dex" : 2,
-            "Name" : "Floragato"
+            "id" : 2,
+            "name" : "Floragato",
+            "version_game": ""
         },
         {
-            "Dex" : 3,
-            "Name" : "Meowscarada"
+            "id" : 3,
+            "name" : "Meowscarada",
+            "version_game": ""
         },
         {
-            "Dex" : 4,
-            "Name" : "Fuecoco"
+            "id" : 4,
+            "name" : "Fuecoco",
+            "version_game": ""
         },
         {
-            "Dex" : 5,
-            "Name" : "Crocalor"
+            "id" : 5,
+            "name" : "Crocalor",
+            "version_game": ""
         },
         {
-            "Dex" : 6,
-            "Name" : "Skeledirge"
+            "id" : 6,
+            "name" : "Skeledirge",
+            "version_game": ""
         },
         {
-            "Dex" : 7,
-            "Name" : "Quaxly"
+            "id" : 7,
+            "name" : "Quaxly",
+            "version_game": ""
         },
         {
-            "Dex" : 8,
-            "Name" : "Quaxwell"
+            "id" : 8,
+            "name" : "Quaxwell",
+            "version_game": ""
         },
         {
-            "Dex" : 9,
-            "Name" : "Quaquavall"
+            "id" : 9,
+            "name" : "Quaquavall",
+            "version_game": ""
         },
         {
-            "Dex" : 10,
-            "Name" : "Lechonk"
+            "id" : 10,
+            "name" : "Lechonk",
+            "version_game": ""
         },
         {
-            "Dex" : 11,
-            "Name" : "Oinkologne"
+            "id" : 11,
+            "name" : "Oinkologne",
+            "version_game": ""
         },
         {
-            "Dex" : 12,
-            "Name" : "Tarountula"
+            "id" : 12,
+            "name" : "Tarountula",
+            "version_game": ""
         },
         {
-            "Dex" : 13,
-            "Name" : "Spidops"
+            "id" : 13,
+            "name" : "Spidops",
+            "version_game": ""
         },
         {
-            "Dex" : 14,
-            "Name" : "Nymble"
+            "id" : 14,
+            "name" : "Nymble",
+            "version_game": ""
         },
         {
-            "Dex" : 15,
-            "Name" : "Lokix"
+            "id" : 15,
+            "name" : "Lokix",
+            "version_game": ""
         },
         {
-            "Dex" : 16,
-            "Name" : "Hoppip"
+            "id" : 16,
+            "name" : "Hoppip"
         },
         {
-            "Dex" : 17,
-            "Name" : "Skiploom"
+            "id" : 17,
+            "name" : "Skiploom"
         },
         {
-            "Dex" : 18,
-            "Name" : "Jumpluff"
+            "id" : 18,
+            "name" : "Jumpluff"
         },
         {
-            "Dex" : 19,
-            "Name" : "Fletchling"
+            "id" : 19,
+            "name" : "Fletchling"
         },
         {
-            "Dex" : 20,
-            "Name" : "Fletchinder"
+            "id" : 20,
+            "name" : "Fletchinder"
         },
         {
-            "Dex" : 21,
-            "Name" : "Talonflame"
+            "id" : 21,
+            "name" : "Talonflame"
         },
         {
-            "Dex" : 22,
-            "Name" : "Pawmi"
+            "id" : 22,
+            "name" : "Pawmi"
         },
         {
-            "Dex" : 23,
-            "Name" : "Pawmo"
+            "id" : 23,
+            "name" : "Pawmo"
         },
         {
-            "Dex" : 24,
-            "Name" : "Pawmot"
+            "id" : 24,
+            "name" : "Pawmot"
         },
         {
-            "Dex" : 25,
-            "Name" : "Houndour"
+            "id" : 25,
+            "name" : "Houndour"
         },
         {
-            "Dex" : 26,
-            "Name" : "Houndoom"
+            "id" : 26,
+            "name" : "Houndoom"
         },
         {
-            "Dex" : 27,
-            "Name" : "Yungoos"
+            "id" : 27,
+            "name" : "Yungoos"
         },
         {
-            "Dex" : 28,
-            "Name" : "Gumshoos"
+            "id" : 28,
+            "name" : "Gumshoos"
         },
         {
-            "Dex" : 29,
-            "Name" : "Skwovet"
+            "id" : 29,
+            "name" : "Skwovet"
         },
         {
-            "Dex" : 30,
-            "Name" : "Greedent"
+            "id" : 30,
+            "name" : "Greedent"
         },
         {
-            "Dex" : 31,
-            "Name" : "Sunkern"
+            "id" : 31,
+            "name" : "Sunkern"
         },
         {
-            "Dex" : 32,
-            "Name" : "Sunflora"
+            "id" : 32,
+            "name" : "Sunflora"
         },
         {
-            "Dex" : 33,
-            "Name" : "Kricketot"
+            "id" : 33,
+            "name" : "Kricketot"
         },
         {
-            "Dex" : 34,
-            "Name" : "Kricketune"
+            "id" : 34,
+            "name" : "Kricketune"
         },
         {
-            "Dex" : 35,
-            "Name" : "Scatterbug"
+            "id" : 35,
+            "name" : "Scatterbug"
         },
         {
-            "Dex" : 36,
-            "Name" : "Spewpa"
+            "id" : 36,
+            "name" : "Spewpa"
         },
         {
-            "Dex" : 37,
-            "Name" : "Vivillon"
+            "id" : 37,
+            "name" : "Vivillon"
         },
         {
-            "Dex" : 38,
-            "Name" : "Combee"
+            "id" : 38,
+            "name" : "Combee"
         },
         {
-            "Dex" : 39,
-            "Name" : "Vespiquen"
+            "id" : 39,
+            "name" : "Vespiquen"
         },
         {
-            "Dex" : 40,
-            "Name" : "Rookidee"
+            "id" : 40,
+            "name" : "Rookidee"
         },
         {
-            "Dex" : 41,
-            "Name" : "Corvisquire"
+            "id" : 41,
+            "name" : "Corvisquire"
         },
         {
-            "Dex" : 42,
-            "Name" : "Corviknight"
+            "id" : 42,
+            "name" : "Corviknight"
         },
         {
-            "Dex" : 43,
-            "Name" : "Happiny"
+            "id" : 43,
+            "name" : "Happiny"
         },
         {
-            "Dex" : 44,
-            "Name" : "Chansey"
+            "id" : 44,
+            "name" : "Chansey"
         },
         {
-            "Dex" : 45,
-            "Name" : "Blissey"
+            "id" : 45,
+            "name" : "Blissey"
         },
         {
-            "Dex" : 46,
-            "Name" : "Azurill"
+            "id" : 46,
+            "name" : "Azurill"
         },
         {
-            "Dex" : 47,
-            "Name" : "Marill"
+            "id" : 47,
+            "name" : "Marill"
         },
         {
-            "Dex" : 48,
-            "Name" : "Azumarill"
+            "id" : 48,
+            "name" : "Azumarill"
         },
         {
-            "Dex" : 49,
-            "Name" : "Surskit"
+            "id" : 49,
+            "name" : "Surskit"
         },
         {
-            "Dex" : 50,
-            "Name" : "Masquerain"
+            "id" : 50,
+            "name" : "Masquerain"
         },
         {
-            "Dex" : 51,
-            "Name" : "Buizel"
+            "id" : 51,
+            "name" : "Buizel"
         },
         {
-            "Dex" : 52,
-            "Name" : "Floatzel"
+            "id" : 52,
+            "name" : "Floatzel"
         },
         {
-            "Dex" : 53,
-            "Name" : "Wooper"
+            "id" : 53,
+            "name" : "Wooper"
         },
         {
-            "Dex" : 54,
-            "Name" : "Clodsire"
+            "id" : 54,
+            "name" : "Clodsire"
         },
         {
-            "Dex" : 55,
-            "Name" : "Psyduck"
+            "id" : 55,
+            "name" : "Psyduck"
         },
         {
-            "Dex" : 56,
-            "Name" : "Golduck"
+            "id" : 56,
+            "name" : "Golduck"
         },
         {
-            "Dex" : 57,
-            "Name" : "Chewtle"
+            "id" : 57,
+            "name" : "Chewtle"
         },
         {
-            "Dex" : 58,
-            "Name" : "Drednaw"
+            "id" : 58,
+            "name" : "Drednaw"
         },
         {
-            "Dex" : 59,
-            "Name" : "Igglybuff"
+            "id" : 59,
+            "name" : "Igglybuff"
         },
         {
-            "Dex" : 60,
-            "Name" : "Jigglypuff"
+            "id" : 60,
+            "name" : "Jigglypuff"
         },
         {
-            "Dex" : 61,
-            "Name" : "Wigglytuff"
+            "id" : 61,
+            "name" : "Wigglytuff"
         },
         {
-            "Dex" : 62,
-            "Name" : "Ralts"
+            "id" : 62,
+            "name" : "Ralts"
         },
         {
-            "Dex" : 63,
-            "Name" : "Kirlia"
+            "id" : 63,
+            "name" : "Kirlia"
         },
         {
-            "Dex" : 64,
-            "Name" : "Gardevoir"
+            "id" : 64,
+            "name" : "Gardevoir"
         },
         {
-            "Dex" : 65,
-            "Name" : "Gallade"
+            "id" : 65,
+            "name" : "Gallade"
         },
         {
-            "Dex" : 66,
-            "Name" : "Drowzee"
+            "id" : 66,
+            "name" : "Drowzee"
         },
         {
-            "Dex" : 67,
-            "Name" : "Hypno"
+            "id" : 67,
+            "name" : "Hypno"
         },
         {
-            "Dex" : 68,
-            "Name" : "Gastly"
+            "id" : 68,
+            "name" : "Gastly"
         },
         {
-            "Dex" : 69,
-            "Name" : "Haunter"
+            "id" : 69,
+            "name" : "Haunter"
         },
         {
-            "Dex" : 70,
-            "Name" : "Gengar"
+            "id" : 70,
+            "name" : "Gengar"
         },
         {
-            "Dex" : 71,
-            "Name" : "Tandemaus"
+            "id" : 71,
+            "name" : "Tandemaus"
         },
         {
-            "Dex" : 72,
-            "Name" : "Maushold"
+            "id" : 72,
+            "name" : "Maushold"
         },
         {
-            "Dex" : 73,
-            "Name" : "Pichu"
+            "id" : 73,
+            "name" : "Pichu"
         },
         {
-            "Dex" : 74,
-            "Name" : "Pikachu"
+            "id" : 74,
+            "name" : "Pikachu"
         },
         {
-            "Dex" : 75,
-            "Name" : "Raichu"
+            "id" : 75,
+            "name" : "Raichu"
         },
         {
-            "Dex" : 76,
-            "Name" : "Fidough"
+            "id" : 76,
+            "name" : "Fidough"
         },
         {
-            "Dex" : 77,
-            "Name" : "Dachsbun"
+            "id" : 77,
+            "name" : "Dachsbun"
         },
         {
-            "Dex" : 78,
-            "Name" : "Slakoth"
+            "id" : 78,
+            "name" : "Slakoth"
         },
         {
-            "Dex" : 79,
-            "Name" : "Vigoroth"
+            "id" : 79,
+            "name" : "Vigoroth"
         },
         {
-            "Dex" : 80,
-            "Name" : "Slaking"
+            "id" : 80,
+            "name" : "Slaking"
         },
         {
-            "Dex" : 81,
-            "Name" : "Bounsweet"
+            "id" : 81,
+            "name" : "Bounsweet"
         },
         {
-            "Dex" : 82,
-            "Name" : "Steenee"
+            "id" : 82,
+            "name" : "Steenee"
         },
         {
-            "Dex" : 83,
-            "Name" : "Tsareena"
+            "id" : 83,
+            "name" : "Tsareena"
         },
         {
-            "Dex" : 84,
-            "Name" : "Smoliv"
+            "id" : 84,
+            "name" : "Smoliv"
         },
         {
-            "Dex" : 85,
-            "Name" : "Dolliv"
+            "id" : 85,
+            "name" : "Dolliv"
         },
         {
-            "Dex" : 86,
-            "Name" : "Arboliva"
+            "id" : 86,
+            "name" : "Arboliva"
         },
         {
-            "Dex" : 87,
-            "Name" : "Bonsly"
+            "id" : 87,
+            "name" : "Bonsly"
         },
         {
-            "Dex" : 88,
-            "Name" : "Sudowoodo"
+            "id" : 88,
+            "name" : "Sudowoodo"
         },
         {
-            "Dex" : 89,
-            "Name" : "Rockruff"
+            "id" : 89,
+            "name" : "Rockruff"
         },
         {
-            "Dex" : 90,
-            "Name" : "Lycanroc"
+            "id" : 90,
+            "name" : "Lycanroc"
         },
         {
-            "Dex" : 91,
-            "Name" : "Rolycoly"
+            "id" : 91,
+            "name" : "Rolycoly"
         },
         {
-            "Dex" : 92,
-            "Name" : "Carkol"
+            "id" : 92,
+            "name" : "Carkol"
         },
         {
-            "Dex" : 93,
-            "Name" : "Coalossal"
+            "id" : 93,
+            "name" : "Coalossal"
         },
         {
-            "Dex" : 94,
-            "Name" : "Shinx"
+            "id" : 94,
+            "name" : "Shinx"
         },
         {
-            "Dex" : 95,
-            "Name" : "Luxio"
+            "id" : 95,
+            "name" : "Luxio"
         },
         {
-            "Dex" : 96,
-            "Name" : "Luxray"
+            "id" : 96,
+            "name" : "Luxray"
         },
         {
-            "Dex" : 97,
-            "Name" : "Starly"
+            "id" : 97,
+            "name" : "Starly"
         },
         {
-            "Dex" : 98,
-            "Name" : "Staravia"
+            "id" : 98,
+            "name" : "Staravia"
         },
         {
-            "Dex" : 99,
-            "Name" : "Staraptor"
+            "id" : 99,
+            "name" : "Staraptor"
         },
         {
-            "Dex" : 100,
-            "Name" : "Oricorio"
+            "id" : 100,
+            "name" : "Oricorio"
         },
         {
-            "Dex" : 101,
-            "Name" : "Mareep"
+            "id" : 101,
+            "name" : "Mareep"
         },
         {
-            "Dex" : 102,
-            "Name" : "Flaaffy"
+            "id" : 102,
+            "name" : "Flaaffy"
         },
         {
-            "Dex" : 103,
-            "Name" : "Ampharos"
+            "id" : 103,
+            "name" : "Ampharos"
         },
         {
-            "Dex" : 104,
-            "Name" : "Petlil"
+            "id" : 104,
+            "name" : "Petlil"
         },
         {
-            "Dex" : 105,
-            "Name" : "Lilligant"
+            "id" : 105,
+            "name" : "Lilligant"
         },
         {
-            "Dex" : 106,
-            "Name" : "Shroomish"
+            "id" : 106,
+            "name" : "Shroomish"
         },
         {
-            "Dex" : 107,
-            "Name" : "Breloom"
+            "id" : 107,
+            "name" : "Breloom"
         },
         {
-            "Dex" : 108,
-            "Name" : "Applin"
+            "id" : 108,
+            "name" : "Applin"
         },
         {
-            "Dex" : 109,
-            "Name" : "Flapple"
+            "id" : 109,
+            "name" : "Flapple"
         },
         {
-            "Dex" : 110,
-            "Name" : "Appletun"
+            "id" : 110,
+            "name" : "Appletun"
         },
         {
-            "Dex" : 111,
-            "Name" : "Spoink"
+            "id" : 111,
+            "name" : "Spoink"
         },
         {
-            "Dex" : 112,
-            "Name" : "Grumpig"
+            "id" : 112,
+            "name" : "Grumpig"
         },
         {
-            "Dex" : 113,
-            "Name" : "Squawkabilly"
+            "id" : 113,
+            "name" : "Squawkabilly"
         },
         {
-            "Dex" : 114,
-            "Name" : "Misdreavus"
+            "id" : 114,
+            "name" : "Misdreavus"
         },
         {
-            "Dex" : 115,
-            "Name" : "Mismagius"
+            "id" : 115,
+            "name" : "Mismagius"
         },
         {
-            "Dex" : 116,
-            "Name" : "Makuhita"
+            "id" : 116,
+            "name" : "Makuhita"
         },
         {
-            "Dex" : 117,
-            "Name" : "Hariyama"
+            "id" : 117,
+            "name" : "Hariyama"
         },
         {
-            "Dex" : 118,
-            "Name" : "Crabrawler"
+            "id" : 118,
+            "name" : "Crabrawler"
         },
         {
-            "Dex" : 119,
-            "Name" : "Crabominable"
+            "id" : 119,
+            "name" : "Crabominable"
         },
         {
-            "Dex" : 120,
-            "Name" : "Salandit"
+            "id" : 120,
+            "name" : "Salandit"
         },
         {
-            "Dex" : 121,
-            "Name" : "Salazzle"
+            "id" : 121,
+            "name" : "Salazzle"
         },
         {
-            "Dex" : 122,
-            "Name" : "Phanpy"
+            "id" : 122,
+            "name" : "Phanpy"
         },
         {
-            "Dex" : 123,
-            "Name" : "Donphan"
+            "id" : 123,
+            "name" : "Donphan"
         },
         {
-            "Dex" : 124,
-            "Name" : "Cufant"
+            "id" : 124,
+            "name" : "Cufant"
         },
         {
-            "Dex" : 125,
-            "Name" : "Copperajah"
+            "id" : 125,
+            "name" : "Copperajah"
         },
         {
-            "Dex" : 126,
-            "Name" : "Gible"
+            "id" : 126,
+            "name" : "Gible"
         },
         {
-            "Dex" : 127,
-            "Name" : "Gabite"
+            "id" : 127,
+            "name" : "Gabite"
         },
         {
-            "Dex" : 128,
-            "Name" : "Garchomp"
+            "id" : 128,
+            "name" : "Garchomp"
         },
         {
-            "Dex" : 129,
-            "Name" : "Nacli"
+            "id" : 129,
+            "name" : "Nacli"
         },
         {
-            "Dex" : 130,
-            "Name" : "Naclstack"
+            "id" : 130,
+            "name" : "Naclstack"
         },
         {
-            "Dex" : 131,
-            "Name" : "Garganacl"
+            "id" : 131,
+            "name" : "Garganacl"
         },
         {
-            "Dex" : 132,
-            "Name" : "Wingull"
+            "id" : 132,
+            "name" : "Wingull"
         },
         {
-            "Dex" : 133,
-            "Name" : "Pelipper"
+            "id" : 133,
+            "name" : "Pelipper"
         },
         {
-            "Dex" : 134,
-            "Name" : "Magikarp"
+            "id" : 134,
+            "name" : "Magikarp"
         },
         {
-            "Dex" : 135,
-            "Name" : "Gyarados"
+            "id" : 135,
+            "name" : "Gyarados"
         },
         {
-            "Dex" : 136,
-            "Name" : "Arrokkuda"
+            "id" : 136,
+            "name" : "Arrokkuda"
         },
         {
-            "Dex" : 137,
-            "Name" : "Barraskewda"
+            "id" : 137,
+            "name" : "Barraskewda"
         },
         {
-            "Dex" : 138,
-            "Name" : "Basculin"
+            "id" : 138,
+            "name" : "Basculin"
         },
         {
-            "Dex" : 139,
-            "Name" : "Gulpin"
+            "id" : 139,
+            "name" : "Gulpin"
         },
         {
-            "Dex" : 140,
-            "Name" : "Swalot"
+            "id" : 140,
+            "name" : "Swalot"
         },
         {
-            "Dex" : 141,
-            "Name" : "Meowth"
+            "id" : 141,
+            "name" : "Meowth"
         },
         {
-            "Dex" : 142,
-            "Name" : "Persian"
+            "id" : 142,
+            "name" : "Persian"
         },
         {
-            "Dex" : 143,
-            "Name" : "Drifloon"
+            "id" : 143,
+            "name" : "Drifloon"
         },
         {
-            "Dex" : 144,
-            "Name" : "Drifblim"
+            "id" : 144,
+            "name" : "Drifblim"
         },
         {
-            "Dex" : 145,
-            "Name" : "flabebe"
+            "id" : 145,
+            "name" : "flabebe"
         },
         {
-            "Dex" : 146,
-            "Name" : "Floette"
+            "id" : 146,
+            "name" : "Floette"
         },
         {
-            "Dex" : 147,
-            "Name" : "Florges"
+            "id" : 147,
+            "name" : "Florges"
         },
         {
-            "Dex" : 148,
-            "Name" : "Diglett"
+            "id" : 148,
+            "name" : "Diglett"
         },
         {
-            "Dex" : 149,
-            "Name" : "Dugtrio"
+            "id" : 149,
+            "name" : "Dugtrio"
         },
         {
-            "Dex" : 150,
-            "Name" : "Torkoal"
+            "id" : 150,
+            "name" : "Torkoal"
         },
         {
-            "Dex" : 151,
-            "Name" : "Numel"
+            "id" : 151,
+            "name" : "Numel"
         },
         {
-            "Dex" : 152,
-            "Name" : "Camerupt"
+            "id" : 152,
+            "name" : "Camerupt"
         },
         {
-            "Dex" : 153,
-            "Name" : "Bronzor"
+            "id" : 153,
+            "name" : "Bronzor"
         },
         {
-            "Dex" : 154,
-            "Name" : "Bronzong"
+            "id" : 154,
+            "name" : "Bronzong"
         },
         {
-            "Dex" : 155,
-            "Name" : "Axew"
+            "id" : 155,
+            "name" : "Axew"
         },
         {
-            "Dex" : 156,
-            "Name" : "Fraxure"
+            "id" : 156,
+            "name" : "Fraxure"
         },
         {
-            "Dex" : 157,
-            "Name" : "Haxorus"
+            "id" : 157,
+            "name" : "Haxorus"
         },
         {
-            "Dex" : 158,
-            "Name" : "Mankey"
+            "id" : 158,
+            "name" : "Mankey"
         },
         {
-            "Dex" : 159,
-            "Name" : "Primeape"
+            "id" : 159,
+            "name" : "Primeape"
         },
         {
-            "Dex" : 160,
-            "Name" : "Annihilape"
+            "id" : 160,
+            "name" : "Annihilape"
         },
         {
-            "Dex" : 161,
-            "Name" : "Meditite"
+            "id" : 161,
+            "name" : "Meditite"
         },
         {
-            "Dex" : 162,
-            "Name" : "Medicham"
+            "id" : 162,
+            "name" : "Medicham"
         },
         {
-            "Dex" : 163,
-            "Name" : "Riolu"
+            "id" : 163,
+            "name" : "Riolu"
         },
         {
-            "Dex" : 164,
-            "Name" : "Lucario"
+            "id" : 164,
+            "name" : "Lucario"
         },
         {
-            "Dex" : 165,
-            "Name" : "Charcadet"
+            "id" : 165,
+            "name" : "Charcadet"
         },
         {
-            "Dex" : 166,
-            "Name" : "Armarouge"
+            "id" : 166,
+            "name" : "Armarouge"
         },
         {
-            "Dex" : 167,
-            "Name" : "Ceruledge"
+            "id" : 167,
+            "name" : "Ceruledge"
         },
         {
-            "Dex" : 168,
-            "Name" : "Barboach"
+            "id" : 168,
+            "name" : "Barboach"
         },
         {
-            "Dex" : 169,
-            "Name" : "Whiscash"
+            "id" : 169,
+            "name" : "Whiscash"
         },
         {
-            "Dex" : 170,
-            "Name" : "Tadbulb"
+            "id" : 170,
+            "name" : "Tadbulb"
         },
         {
-            "Dex" : 171,
-            "Name" : "Bellibolt"
+            "id" : 171,
+            "name" : "Bellibolt"
         },
         {
-            "Dex" : 172,
-            "Name" : "Goomy"
+            "id" : 172,
+            "name" : "Goomy"
         },
         {
-            "Dex" : 173,
-            "Name" : "Sliggoo"
+            "id" : 173,
+            "name" : "Sliggoo"
         },
         {
-            "Dex" : 174,
-            "Name" : "Goodra"
+            "id" : 174,
+            "name" : "Goodra"
         },
         {
-            "Dex" : 175,
-            "Name" : "Croagunk"
+            "id" : 175,
+            "name" : "Croagunk"
         },
         {
-            "Dex" : 176,
-            "Name" : "Toxicroak"
+            "id" : 176,
+            "name" : "Toxicroak"
         },
         {
-            "Dex" : 177,
-            "Name" : "Wattrel"
+            "id" : 177,
+            "name" : "Wattrel"
         },
         {
-            "Dex" : 178,
-            "Name" : "Kilowattrel"
+            "id" : 178,
+            "name" : "Kilowattrel"
         },
         {
-            "Dex" : 179,
-            "Name" : "Eevee"
+            "id" : 179,
+            "name" : "Eevee"
         },
         {
-            "Dex" : 180,
-            "Name" : "Vaporeon"
+            "id" : 180,
+            "name" : "Vaporeon"
         },
         {
-            "Dex" : 181,
-            "Name" : "Jolteon"
+            "id" : 181,
+            "name" : "Jolteon"
         },
         {
-            "Dex" : 182,
-            "Name" : "Flareon"
+            "id" : 182,
+            "name" : "Flareon"
         },
         {
-            "Dex" : 183,
-            "Name" : "Espeon"
+            "id" : 183,
+            "name" : "Espeon"
         },
         {
-            "Dex" : 184,
-            "Name" : "Umbreon"
+            "id" : 184,
+            "name" : "Umbreon"
         },
         {
-            "Dex" : 185,
-            "Name" : "Leafeon"
+            "id" : 185,
+            "name" : "Leafeon"
         },
         {
-            "Dex" : 186,
-            "Name" : "Glaceon"
+            "id" : 186,
+            "name" : "Glaceon"
         },
         {
-            "Dex" : 187,
-            "Name" : "Sylveon"
+            "id" : 187,
+            "name" : "Sylveon"
         },
         {
-            "Dex" : 188,
-            "Name" : "Dunsparce"
+            "id" : 188,
+            "name" : "Dunsparce"
         },
         {
-            "Dex" : 189,
-            "Name" : "Dudunsparce"
+            "id" : 189,
+            "name" : "Dudunsparce"
         },
         {
-            "Dex" : 190,
-            "Name" : "Deerling"
+            "id" : 190,
+            "name" : "Deerling"
         },
         {
-            "Dex" : 191,
-            "Name" : "Sawsbuck"
+            "id" : 191,
+            "name" : "Sawsbuck"
         },
         {
-            "Dex" : 192,
-            "Name" : "Girafarig"
+            "id" : 192,
+            "name" : "Girafarig"
         },
         {
-            "Dex" : 193,
-            "Name" : "Farigiraf"
+            "id" : 193,
+            "name" : "Farigiraf"
         },
         {
-            "Dex" : 194,
-            "Name" : "Grimer"
+            "id" : 194,
+            "name" : "Grimer"
         },
         {
-            "Dex" : 195,
-            "Name" : "Muk"
+            "id" : 195,
+            "name" : "Muk"
         },
         {
-            "Dex" : 196,
-            "Name" : "Maschiff"
+            "id" : 196,
+            "name" : "Maschiff"
         },
         {
-            "Dex" : 197,
-            "Name" : "Mabosstiff"
+            "id" : 197,
+            "name" : "Mabosstiff"
         },
         {
-            "Dex" : 198,
-            "Name" : "Toxel"
+            "id" : 198,
+            "name" : "Toxel"
         },
         {
-            "Dex" : 199,
-            "Name" : "Toxtricity"
+            "id" : 199,
+            "name" : "Toxtricity"
         },
         {
-            "Dex" : 200,
-            "Name" : "Dedenne"
+            "id" : 200,
+            "name" : "Dedenne"
         },
         {
-            "Dex" : 201,
-            "Name" : "Pachirisu"
+            "id" : 201,
+            "name" : "Pachirisu"
         },
         {
-            "Dex" : 202,
-            "Name" : "Shroodle"
+            "id" : 202,
+            "name" : "Shroodle"
         },
         {
-            "Dex" : 203,
-            "Name" : "Grafaiai"
+            "id" : 203,
+            "name" : "Grafaiai"
         },
         {
-            "Dex" : 204,
-            "Name" : "Stantler"
+            "id" : 204,
+            "name" : "Stantler"
         },
         {
-            "Dex" : 205,
-            "Name" : "Foongus"
+            "id" : 205,
+            "name" : "Foongus"
         },
         {
-            "Dex" : 206,
-            "Name" : "Amoonguss"
+            "id" : 206,
+            "name" : "Amoonguss"
         },
         {
-            "Dex" : 207,
-            "Name" : "Voltorb"
+            "id" : 207,
+            "name" : "Voltorb"
         },
         {
-            "Dex" : 208,
-            "Name" : "Electrode"
+            "id" : 208,
+            "name" : "Electrode"
         },
         {
-            "Dex" : 209,
-            "Name" : "Magnemite"
+            "id" : 209,
+            "name" : "Magnemite"
         },
         {
-            "Dex" : 210,
-            "Name" : "Magneton"
+            "id" : 210,
+            "name" : "Magneton"
         },
         {
-            "Dex" : 211,
-            "Name" : "Magnezone"
+            "id" : 211,
+            "name" : "Magnezone"
         },
         {
-            "Dex" : 212,
-            "Name" : "Ditto"
+            "id" : 212,
+            "name" : "Ditto"
         },
         {
-            "Dex" : 213,
-            "Name" : "Growlithe"
+            "id" : 213,
+            "name" : "Growlithe"
         },
         {
-            "Dex" : 214,
-            "Name" : "Arcanine"
+            "id" : 214,
+            "name" : "Arcanine"
         },
         {
-            "Dex" : 215,
-            "Name" : "Teddiursa"
+            "id" : 215,
+            "name" : "Teddiursa"
         },
         {
-            "Dex" : 216,
-            "Name" : "Ursaring"
+            "id" : 216,
+            "name" : "Ursaring"
         },
         {
-            "Dex" : 217,
-            "Name" : "Zangoose"
+            "id" : 217,
+            "name" : "Zangoose"
         },
         {
-            "Dex" : 218,
-            "Name" : "Seviper"
+            "id" : 218,
+            "name" : "Seviper"
         },
         {
-            "Dex" : 219,
-            "Name" : "Swablu"
+            "id" : 219,
+            "name" : "Swablu"
         },
         {
-            "Dex" : 220,
-            "Name" : "Altaria"
+            "id" : 220,
+            "name" : "Altaria"
         },
         {
-            "Dex" : 221,
-            "Name" : "Skiddo"
+            "id" : 221,
+            "name" : "Skiddo"
         },
         {
-            "Dex" : 222,
-            "Name" : "Gogoat"
+            "id" : 222,
+            "name" : "Gogoat"
         },
         {
-            "Dex" : 223,
-            "Name" : "Tauros"
+            "id" : 223,
+            "name" : "Tauros"
         },
         {
-            "Dex" : 224,
-            "Name" : "Litleo"
+            "id" : 224,
+            "name" : "Litleo"
         },
         {
-            "Dex" : 225,
-            "Name" : "Pyroar"
+            "id" : 225,
+            "name" : "Pyroar"
         },
         {
-            "Dex" : 226,
-            "Name" : "Stunky"
+            "id" : 226,
+            "name" : "Stunky"
         },
         {
-            "Dex" : 227,
-            "Name" : "Skuntank"
+            "id" : 227,
+            "name" : "Skuntank"
         },
         {
-            "Dex" : 228,
-            "Name" : "Zorua"
+            "id" : 228,
+            "name" : "Zorua"
         },
         {
-            "Dex" : 229,
-            "Name" : "Zoroark"
+            "id" : 229,
+            "name" : "Zoroark"
         },
         {
-            "Dex" : 230,
-            "Name" : "Sneasel"
+            "id" : 230,
+            "name" : "Sneasel"
         },
         {
-            "Dex" : 231,
-            "Name" : "Weavile"
+            "id" : 231,
+            "name" : "Weavile"
         },
         {
-            "Dex" : 232,
-            "Name" : "Murkrow"
+            "id" : 232,
+            "name" : "Murkrow"
         },
         {
-            "Dex" : 233,
-            "Name" : "Honchkrow"
+            "id" : 233,
+            "name" : "Honchkrow"
         },
         {
-            "Dex" : 234,
-            "Name" : "Gothita"
+            "id" : 234,
+            "name" : "Gothita"
         },
         {
-            "Dex" : 235,
-            "Name" : "Gothorita"
+            "id" : 235,
+            "name" : "Gothorita"
         },
         {
-            "Dex" : 236,
-            "Name" : "Gothitelle"
+            "id" : 236,
+            "name" : "Gothitelle"
         },
         {
-            "Dex" : 237,
-            "Name" : "Sinistea"
+            "id" : 237,
+            "name" : "Sinistea"
         },
         {
-            "Dex" : 238,
-            "Name" : "Polteageist"
+            "id" : 238,
+            "name" : "Polteageist"
         },
         {
-            "Dex" : 239,
-            "Name" : "Mimikyu"
+            "id" : 239,
+            "name" : "Mimikyu"
         },
         {
-            "Dex" : 240,
-            "Name" : "Klefki"
+            "id" : 240,
+            "name" : "Klefki"
         },
         {
-            "Dex" : 241,
-            "Name" : "Indeedee"
+            "id" : 241,
+            "name" : "Indeedee"
         },
         {
-            "Dex" : 242,
-            "Name" : "Bramblin"
+            "id" : 242,
+            "name" : "Bramblin"
         },
         {
-            "Dex" : 243,
-            "Name" : "Brambleghast"
+            "id" : 243,
+            "name" : "Brambleghast"
         },
         {
-            "Dex" : 244,
-            "Name" : "Toedscool"
+            "id" : 244,
+            "name" : "Toedscool"
         },
         {
-            "Dex" : 245,
-            "Name" : "Toedscruel"
+            "id" : 245,
+            "name" : "Toedscruel"
         },
         {
-            "Dex" : 246,
-            "Name" : "Tropius"
+            "id" : 246,
+            "name" : "Tropius"
         },
         {
-            "Dex" : 247,
-            "Name" : "Fomantis"
+            "id" : 247,
+            "name" : "Fomantis"
         },
         {
-            "Dex" : 248,
-            "Name" : "Lurantis"
+            "id" : 248,
+            "name" : "Lurantis"
         },
         {
-            "Dex" : 249,
-            "Name" : "Klawf"
+            "id" : 249,
+            "name" : "Klawf"
         },
         {
-            "Dex" : 250,
-            "Name" : "Capsakid"
+            "id" : 250,
+            "name" : "Capsakid"
         },
         {
-            "Dex" : 251,
-            "Name" : "Scovillain"
+            "id" : 251,
+            "name" : "Scovillain"
         },
         {
-            "Dex" : 252,
-            "Name" : "Cacnea"
+            "id" : 252,
+            "name" : "Cacnea"
         },
         {
-            "Dex" : 253,
-            "Name" : "Cacturne"
+            "id" : 253,
+            "name" : "Cacturne"
         },
         {
-            "Dex" : 254,
-            "Name" : "Rellor"
+            "id" : 254,
+            "name" : "Rellor"
         },
         {
-            "Dex" : 255,
-            "Name" : "Rabsca"
+            "id" : 255,
+            "name" : "Rabsca"
         },
         {
-            "Dex" : 256,
-            "Name" : "Venonat"
+            "id" : 256,
+            "name" : "Venonat"
         },
         {
-            "Dex" : 257,
-            "Name" : "Venomoth"
+            "id" : 257,
+            "name" : "Venomoth"
         },
         {
-            "Dex" : 258,
-            "Name" : "Pineco"
+            "id" : 258,
+            "name" : "Pineco"
         },
         {
-            "Dex" : 259,
-            "Name" : "Forretress"
+            "id" : 259,
+            "name" : "Forretress"
         },
         {
-            "Dex" : 260,
-            "Name" : "Scyther"
+            "id" : 260,
+            "name" : "Scyther"
         },
         {
-            "Dex" : 261,
-            "Name" : "Scizor"
+            "id" : 261,
+            "name" : "Scizor"
         },
         {
-            "Dex" : 262,
-            "Name" : "Heracross"
+            "id" : 262,
+            "name" : "Heracross"
         },
         {
-            "Dex" : 263,
-            "Name" : "Flittle"
+            "id" : 263,
+            "name" : "Flittle"
         },
         {
-            "Dex" : 264,
-            "Name" : "Espathra"
+            "id" : 264,
+            "name" : "Espathra"
         },
         {
-            "Dex" : 265,
-            "Name" : "Hippopotas"
+            "id" : 265,
+            "name" : "Hippopotas"
         },
         {
-            "Dex" : 266,
-            "Name" : "Hippowdon"
+            "id" : 266,
+            "name" : "Hippowdon"
         },
         {
-            "Dex" : 267,
-            "Name" : "Sandile"
+            "id" : 267,
+            "name" : "Sandile"
         },
         {
-            "Dex" : 268,
-            "Name" : "Krokorok"
+            "id" : 268,
+            "name" : "Krokorok"
         },
         {
-            "Dex" : 269,
-            "Name" : "Krookodile"
+            "id" : 269,
+            "name" : "Krookodile"
         },
         {
-            "Dex" : 270,
-            "Name" : "Silicobra"
+            "id" : 270,
+            "name" : "Silicobra"
         },
         {
-            "Dex" : 271,
-            "Name" : "Sandaconda"
+            "id" : 271,
+            "name" : "Sandaconda"
         },
         {
-            "Dex" : 272,
-            "Name" : "Mudbray"
+            "id" : 272,
+            "name" : "Mudbray"
         },
         {
-            "Dex" : 273,
-            "Name" : "Mudsdale"
+            "id" : 273,
+            "name" : "Mudsdale"
         },
         {
-            "Dex" : 274,
-            "Name" : "Larvesta"
+            "id" : 274,
+            "name" : "Larvesta"
         },
         {
-            "Dex" : 275,
-            "Name" : "Volcarona"
+            "id" : 275,
+            "name" : "Volcarona"
         },
         {
-            "Dex" : 276,
-            "Name" : "Bagon"
+            "id" : 276,
+            "name" : "Bagon"
         },
         {
-            "Dex" : 277,
-            "Name" : "Shelgon"
+            "id" : 277,
+            "name" : "Shelgon"
         },
         {
-            "Dex" : 278,
-            "Name" : "Salamence"
+            "id" : 278,
+            "name" : "Salamence"
         },
         {
-            "Dex" : 279,
-            "Name" : "Tinkatink"
+            "id" : 279,
+            "name" : "Tinkatink"
         },
         {
-            "Dex" : 280,
-            "Name" : "Tinkatuff"
+            "id" : 280,
+            "name" : "Tinkatuff"
         },
         {
-            "Dex" : 281,
-            "Name" : "Tinkaton"
+            "id" : 281,
+            "name" : "Tinkaton"
         },
         {
-            "Dex" : 282,
-            "Name" : "Hatenna"
+            "id" : 282,
+            "name" : "Hatenna"
         },
         {
-            "Dex" : 283,
-            "Name" : "Hattrem"
+            "id" : 283,
+            "name" : "Hattrem"
         },
         {
-            "Dex" : 284,
-            "Name" : "Hatterene"
+            "id" : 284,
+            "name" : "Hatterene"
         },
         {
-            "Dex" : 285,
-            "Name" : "Impidimp"
+            "id" : 285,
+            "name" : "Impidimp"
         },
         {
-            "Dex" : 286,
-            "Name" : "Morgrem"
+            "id" : 286,
+            "name" : "Morgrem"
         },
         {
-            "Dex" : 287,
-            "Name" : "Grimmsnarl"
+            "id" : 287,
+            "name" : "Grimmsnarl"
         },
         {
-            "Dex" : 288,
-            "Name" : "Wiglett"
+            "id" : 288,
+            "name" : "Wiglett"
         },
         {
-            "Dex" : 289,
-            "Name" : "Wugtrio"
+            "id" : 289,
+            "name" : "Wugtrio"
         },
         {
-            "Dex" : 290,
-            "Name" : "Bombirdier"
+            "id" : 290,
+            "name" : "Bombirdier"
         },
         {
-            "Dex" : 291,
-            "Name" : "Finizen"
+            "id" : 291,
+            "name" : "Finizen"
         },
         {
-            "Dex" : 292,
-            "Name" : "Palafin"
+            "id" : 292,
+            "name" : "Palafin"
         },
         {
-            "Dex" : 293,
-            "Name" : "Varoom"
+            "id" : 293,
+            "name" : "Varoom"
         },
         {
-            "Dex" : 294,
-            "Name" : "Revavroom"
+            "id" : 294,
+            "name" : "Revavroom"
         },
         {
-            "Dex" : 295,
-            "Name" : "Cyclizar"
+            "id" : 295,
+            "name" : "Cyclizar"
         },
         {
-            "Dex" : 296,
-            "Name" : "Orthworm"
+            "id" : 296,
+            "name" : "Orthworm"
         },
         {
-            "Dex" : 297,
-            "Name" : "Sableye"
+            "id" : 297,
+            "name" : "Sableye"
         },
         {
-            "Dex" : 298,
-            "Name" : "Shuppet"
+            "id" : 298,
+            "name" : "Shuppet"
         },
         {
-            "Dex" : 299,
-            "Name" : "Banette"
+            "id" : 299,
+            "name" : "Banette"
         },
         {
-            "Dex" : 300,
-            "Name" : "Falinks"
+            "id" : 300,
+            "name" : "Falinks"
         },
         {
-            "Dex" : 301,
-            "Name" : "Hawlucha"
+            "id" : 301,
+            "name" : "Hawlucha"
         },
         {
-            "Dex" : 302,
-            "Name" : "Spiritomb"
+            "id" : 302,
+            "name" : "Spiritomb"
         },
         {
-            "Dex" : 303,
-            "Name" : "Noibat"
+            "id" : 303,
+            "name" : "Noibat"
         },
         {
-            "Dex" : 304,
-            "Name" : "Noivern"
+            "id" : 304,
+            "name" : "Noivern"
         },
         {
-            "Dex" : 305,
-            "Name" : "Dreepy"
+            "id" : 305,
+            "name" : "Dreepy"
         },
         {
-            "Dex" : 306,
-            "Name" : "Drakloak"
+            "id" : 306,
+            "name" : "Drakloak"
         },
         {
-            "Dex" : 307,
-            "Name" : "Dragapult"
+            "id" : 307,
+            "name" : "Dragapult"
         },
         {
-            "Dex" : 308,
-            "Name" : "Glimmet"
+            "id" : 308,
+            "name" : "Glimmet"
         },
         {
-            "Dex" : 309,
-            "Name" : "Glimmora"
+            "id" : 309,
+            "name" : "Glimmora"
         },
         {
-            "Dex" : 310,
-            "Name" : "Rotom"
+            "id" : 310,
+            "name" : "Rotom"
         },
         {
-            "Dex" : 311,
-            "Name" : "Greavard"
+            "id" : 311,
+            "name" : "Greavard"
         },
         {
-            "Dex" : 312,
-            "Name" : "Houndstone"
+            "id" : 312,
+            "name" : "Houndstone"
         },
         {
-            "Dex" : 313,
-            "Name" : "Oranguru"
+            "id" : 313,
+            "name" : "Oranguru"
         },
         {
-            "Dex" : 314,
-            "Name" : "Passimian"
+            "id" : 314,
+            "name" : "Passimian"
         },
         {
-            "Dex" : 315,
-            "Name" : "Komala"
+            "id" : 315,
+            "name" : "Komala"
         },
         {
-            "Dex" : 316,
-            "Name" : "Larvitar"
+            "id" : 316,
+            "name" : "Larvitar"
         },
         {
-            "Dex" : 317,
-            "Name" : "Pupitar"
+            "id" : 317,
+            "name" : "Pupitar"
         },
         {
-            "Dex" : 318,
-            "Name" : "Tyranitar"
+            "id" : 318,
+            "name" : "Tyranitar"
         },
         {
-            "Dex" : 319,
-            "Name" : "Stonjourner"
+            "id" : 319,
+            "name" : "Stonjourner"
         },
         {
-            "Dex" : 320,
-            "Name" : "Eiscue"
+            "id" : 320,
+            "name" : "Eiscue"
         },
         {
-            "Dex" : 321,
-            "Name" : "Pincurchin"
+            "id" : 321,
+            "name" : "Pincurchin"
         },
         {
-            "Dex" : 322,
-            "Name" : "Sandygast"
+            "id" : 322,
+            "name" : "Sandygast"
         },
         {
-            "Dex" : 323,
-            "Name" : "Palossand"
+            "id" : 323,
+            "name" : "Palossand"
         },
         {
-            "Dex" : 324,
-            "Name" : "Slowpoke"
+            "id" : 324,
+            "name" : "Slowpoke"
         },
         {
-            "Dex" : 325,
-            "Name" : "Slowbro"
+            "id" : 325,
+            "name" : "Slowbro"
         },
         {
-            "Dex" : 326,
-            "Name" : "Slowking"
+            "id" : 326,
+            "name" : "Slowking"
         },
         {
-            "Dex" : 327,
-            "Name" : "Shellos"
+            "id" : 327,
+            "name" : "Shellos"
         },
         {
-            "Dex" : 328,
-            "Name" : "Gastrodon"
+            "id" : 328,
+            "name" : "Gastrodon"
         },
         {
-            "Dex" : 329,
-            "Name" : "Shellder"
+            "id" : 329,
+            "name" : "Shellder"
         },
         {
-            "Dex" : 330,
-            "Name" : "Cloyster"
+            "id" : 330,
+            "name" : "Cloyster"
         },
         {
-            "Dex" : 331,
-            "Name" : "Qwilfish"
+            "id" : 331,
+            "name" : "Qwilfish"
         },
         {
-            "Dex" : 332,
-            "Name" : "Luvdisc"
+            "id" : 332,
+            "name" : "Luvdisc"
         },
         {
-            "Dex" : 333,
-            "Name" : "Finneon"
+            "id" : 333,
+            "name" : "Finneon"
         },
         {
-            "Dex" : 334,
-            "Name" : "Lumineon"
+            "id" : 334,
+            "name" : "Lumineon"
         },
         {
-            "Dex" : 335,
-            "Name" : "Bruxish"
+            "id" : 335,
+            "name" : "Bruxish"
         },
         {
-            "Dex" : 336,
-            "Name" : "Alomomola"
+            "id" : 336,
+            "name" : "Alomomola"
         },
         {
-            "Dex" : 337,
-            "Name" : "Skrelp"
+            "id" : 337,
+            "name" : "Skrelp"
         },
         {
-            "Dex" : 338,
-            "Name" : "Dragalge"
+            "id" : 338,
+            "name" : "Dragalge"
         },
         {
-            "Dex" : 339,
-            "Name" : "Clauncher"
+            "id" : 339,
+            "name" : "Clauncher"
         },
         {
-            "Dex" : 340,
-            "Name" : "Clawitzer"
+            "id" : 340,
+            "name" : "Clawitzer"
         },
         {
-            "Dex" : 341,
-            "Name" : "Tynamo"
+            "id" : 341,
+            "name" : "Tynamo"
         },
         {
-            "Dex" : 342,
-            "Name" : "Eelektrik"
+            "id" : 342,
+            "name" : "Eelektrik"
         },
         {
-            "Dex" : 343,
-            "Name" : "Eelektross"
+            "id" : 343,
+            "name" : "Eelektross"
         },
         {
-            "Dex" : 344,
-            "Name" : "Mareanie"
+            "id" : 344,
+            "name" : "Mareanie"
         },
         {
-            "Dex" : 345,
-            "Name" : "Toxapex"
+            "id" : 345,
+            "name" : "Toxapex"
         },
         {
-            "Dex" : 346,
-            "Name" : "Flamigo"
+            "id" : 346,
+            "name" : "Flamigo"
         },
         {
-            "Dex" : 347,
-            "Name" : "Dratini"
+            "id" : 347,
+            "name" : "Dratini"
         },
         {
-            "Dex" : 348,
-            "Name" : "Dragonair"
+            "id" : 348,
+            "name" : "Dragonair"
         },
         {
-            "Dex" : 349,
-            "Name" : "Dragonite"
+            "id" : 349,
+            "name" : "Dragonite"
         },
         {
-            "Dex" : 350,
-            "Name" : "Snom"
+            "id" : 350,
+            "name" : "Snom"
         },
         {
-            "Dex" : 351,
-            "Name" : "Frosmoth"
+            "id" : 351,
+            "name" : "Frosmoth"
         },
         {
-            "Dex" : 352,
-            "Name" : "Snover"
+            "id" : 352,
+            "name" : "Snover"
         },
         {
-            "Dex" : 353,
-            "Name" : "Abomasnow"
+            "id" : 353,
+            "name" : "Abomasnow"
         },
         {
-            "Dex" : 354,
-            "Name" : "Delibird"
+            "id" : 354,
+            "name" : "Delibird"
         },
         {
-            "Dex" : 355,
-            "Name" : "Cubchoo"
+            "id" : 355,
+            "name" : "Cubchoo"
         },
         {
-            "Dex" : 356,
-            "Name" : "Beartic"
+            "id" : 356,
+            "name" : "Beartic"
         },
         {
-            "Dex" : 357,
-            "Name" : "Snorunt"
+            "id" : 357,
+            "name" : "Snorunt"
         },
         {
-            "Dex" : 358,
-            "Name" : "Glalie"
+            "id" : 358,
+            "name" : "Glalie"
         },
         {
-            "Dex" : 359,
-            "Name" : "Froslass"
+            "id" : 359,
+            "name" : "Froslass"
         },
         {
-            "Dex" : 360,
-            "Name" : "Cryogonal"
+            "id" : 360,
+            "name" : "Cryogonal"
         },
         {
-            "Dex" : 361,
-            "Name" : "Cetoddle"
+            "id" : 361,
+            "name" : "Cetoddle"
         },
         {
-            "Dex" : 362,
-            "Name" : "Cetitan"
+            "id" : 362,
+            "name" : "Cetitan"
         },
         {
-            "Dex" : 363,
-            "Name" : "Bergmite"
+            "id" : 363,
+            "name" : "Bergmite"
         },
         {
-            "Dex" : 364,
-            "Name" : "Avalugg"
+            "id" : 364,
+            "name" : "Avalugg"
         },
         {
-            "Dex" : 365,
-            "Name" : "Rufflet"
+            "id" : 365,
+            "name" : "Rufflet"
         },
         {
-            "Dex" : 366,
-            "Name" : "Braviary"
+            "id" : 366,
+            "name" : "Braviary"
         },
         {
-            "Dex" : 367,
-            "Name" : "Pawniard"
+            "id" : 367,
+            "name" : "Pawniard"
         },
         {
-            "Dex" : 368,
-            "Name" : "Bisharp"
+            "id" : 368,
+            "name" : "Bisharp"
         },
         {
-            "Dex" : 369,
-            "Name" : "Kingambit"
+            "id" : 369,
+            "name" : "Kingambit"
         },
         {
-            "Dex" : 370,
-            "Name" : "Deino"
+            "id" : 370,
+            "name" : "Deino"
         },
         {
-            "Dex" : 371,
-            "Name" : "Zweilous"
+            "id" : 371,
+            "name" : "Zweilous"
         },
         {
-            "Dex" : 372,
-            "Name" : "Hydreigon"
+            "id" : 372,
+            "name" : "Hydreigon"
         },
         {
-            "Dex" : 373,
-            "Name" : "Veluza"
+            "id" : 373,
+            "name" : "Veluza"
         },
         {
-            "Dex" : 374,
-            "Name" : "Dondozo"
+            "id" : 374,
+            "name" : "Dondozo"
         },
         {
-            "Dex" : 375,
-            "Name" : "Tatsugiri"
+            "id" : 375,
+            "name" : "Tatsugiri"
         },
         {
-            "Dex" : 376,
-            "Name" : "Great Tusk"
+            "id" : 376,
+            "name" : "Great Tusk"
         },
         {
-            "Dex" : 377,
-            "Name" : "Scream Tail"
+            "id" : 377,
+            "name" : "Scream Tail"
         },
         {
-            "Dex" : 378,
-            "Name" : "Brute Bonnet"
+            "id" : 378,
+            "name" : "Brute Bonnet"
         },
         {
-            "Dex" : 379,
-            "Name" : "Flutter Mane"
+            "id" : 379,
+            "name" : "Flutter Mane"
         },
         {
-            "Dex" : 380,
-            "Name" : "Slither Wing"
+            "id" : 380,
+            "name" : "Slither Wing"
         },
         {
-            "Dex" : 381,
-            "Name" : "Sandy Shocks"
+            "id" : 381,
+            "name" : "Sandy Shocks"
         },
         {
-            "Dex" : 382,
-            "Name" : "Iron Treads"
+            "id" : 382,
+            "name" : "Iron Treads"
         },
         {
-            "Dex" : 383,
-            "Name" : "Iron Bundle"
+            "id" : 383,
+            "name" : "Iron Bundle"
         },
         {
-            "Dex" : 384,
-            "Name" : "Iron Hands"
+            "id" : 384,
+            "name" : "Iron Hands"
         },
         {
-            "Dex" : 385,
-            "Name" : "Iron Jugulis"
+            "id" : 385,
+            "name" : "Iron Jugulis"
         },
         {
-            "Dex" : 386,
-            "Name" : "Iron Moth"
+            "id" : 386,
+            "name" : "Iron Moth"
         },
         {
-            "Dex" : 387,
-            "Name" : "Iron Thorns"
+            "id" : 387,
+            "name" : "Iron Thorns"
         },
         {
-            "Dex" : 388,
-            "Name" : "Frigibax"
+            "id" : 388,
+            "name" : "Frigibax"
         },
         {
-            "Dex" : 389,
-            "Name" : "Arctibax"
+            "id" : 389,
+            "name" : "Arctibax"
         },
         {
-            "Dex" : 390,
-            "Name" : "Baxcalibur"
+            "id" : 390,
+            "name" : "Baxcalibur"
         },
         {
-            "Dex" : 391,
-            "Name" : "Gimmighoul"
+            "id" : 391,
+            "name" : "Gimmighoul"
         },
         {
-            "Dex" : 392,
-            "Name" : "Gholdengo"
+            "id" : 392,
+            "name" : "Gholdengo"
         },
         {
-            "Dex" : 393,
-            "Name" : "Wo-Chien"
+            "id" : 393,
+            "name" : "Wo-Chien"
         },
         {
-            "Dex" : 394,
-            "Name" : "Chien-Pao"
+            "id" : 394,
+            "name" : "Chien-Pao"
         },
         {
-            "Dex" : 395,
-            "Name" : "Ting-Lu"
+            "id" : 395,
+            "name" : "Ting-Lu"
         },
         {
-            "Dex" : 396,
-            "Name" : "Chi-Yu"
+            "id" : 396,
+            "name" : "Chi-Yu"
         },
         {
-            "Dex" : 397,
-            "Name" : "Roaring Moon"
+            "id" : 397,
+            "name" : "Roaring Moon"
         },
         {
-            "Dex" : 398,
-            "Name" : "Iron Valiant"
+            "id" : 398,
+            "name" : "Iron Valiant"
         },
         {
-            "Dex" : 399,
-            "Name" : "Koraidon"
+            "id" : 399,
+            "name" : "Koraidon"
         },
         {
-            "Dex" : 400,
-            "Name" : "Miraidon"
+            "id" : 400,
+            "name" : "Miraidon"
         }
     ]}
     
