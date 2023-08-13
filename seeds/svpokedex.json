@@ -77,1543 +77,1928 @@
         },
         {
             "id" : 16,
-            "name" : "Hoppip"
+            "name" : "Hoppip",
+            "version_game": ""
         },
         {
             "id" : 17,
-            "name" : "Skiploom"
+            "name" : "Skiploom",
+            "version_game": ""
         },
         {
             "id" : 18,
-            "name" : "Jumpluff"
+            "name" : "Jumpluff",
+            "version_game": ""
         },
         {
             "id" : 19,
-            "name" : "Fletchling"
+            "name" : "Fletchling",
+            "version_game": ""
         },
         {
             "id" : 20,
-            "name" : "Fletchinder"
+            "name" : "Fletchinder",
+            "version_game": ""
         },
         {
             "id" : 21,
-            "name" : "Talonflame"
+            "name" : "Talonflame",
+            "version_game": ""
         },
         {
             "id" : 22,
-            "name" : "Pawmi"
+            "name" : "Pawmi",
+            "version_game": ""
         },
         {
             "id" : 23,
-            "name" : "Pawmo"
+            "name" : "Pawmo",
+            "version_game": ""
         },
         {
             "id" : 24,
-            "name" : "Pawmot"
+            "name" : "Pawmot",
+            "version_game": ""
         },
         {
             "id" : 25,
-            "name" : "Houndour"
+            "name" : "Houndour",
+            "version_game": ""
         },
         {
             "id" : 26,
-            "name" : "Houndoom"
+            "name" : "Houndoom",
+            "version_game": ""
         },
         {
             "id" : 27,
-            "name" : "Yungoos"
+            "name" : "Yungoos",
+            "version_game": ""
         },
         {
             "id" : 28,
-            "name" : "Gumshoos"
+            "name" : "Gumshoos",
+            "version_game": ""
         },
         {
             "id" : 29,
-            "name" : "Skwovet"
+            "name" : "Skwovet",
+            "version_game": ""
         },
         {
             "id" : 30,
-            "name" : "Greedent"
+            "name" : "Greedent",
+            "version_game": ""
         },
         {
             "id" : 31,
-            "name" : "Sunkern"
+            "name" : "Sunkern",
+            "version_game": ""
         },
         {
             "id" : 32,
-            "name" : "Sunflora"
+            "name" : "Sunflora",
+            "version_game": ""
         },
         {
             "id" : 33,
-            "name" : "Kricketot"
+            "name" : "Kricketot",
+            "version_game": ""
         },
         {
             "id" : 34,
-            "name" : "Kricketune"
+            "name" : "Kricketune",
+            "version_game": ""
         },
         {
             "id" : 35,
-            "name" : "Scatterbug"
+            "name" : "Scatterbug",
+            "version_game": ""
         },
         {
             "id" : 36,
-            "name" : "Spewpa"
+            "name" : "Spewpa",
+            "version_game": ""
         },
         {
             "id" : 37,
-            "name" : "Vivillon"
+            "name" : "Vivillon",
+            "version_game": ""
         },
         {
             "id" : 38,
-            "name" : "Combee"
+            "name" : "Combee",
+            "version_game": ""
         },
         {
             "id" : 39,
-            "name" : "Vespiquen"
+            "name" : "Vespiquen",
+            "version_game": ""
         },
         {
             "id" : 40,
-            "name" : "Rookidee"
+            "name" : "Rookidee",
+            "version_game": ""
         },
         {
             "id" : 41,
-            "name" : "Corvisquire"
+            "name" : "Corvisquire",
+            "version_game": ""
         },
         {
             "id" : 42,
-            "name" : "Corviknight"
+            "name" : "Corviknight",
+            "version_game": ""
         },
         {
             "id" : 43,
-            "name" : "Happiny"
+            "name" : "Happiny",
+            "version_game": ""
         },
         {
             "id" : 44,
-            "name" : "Chansey"
+            "name" : "Chansey",
+            "version_game": ""
         },
         {
             "id" : 45,
-            "name" : "Blissey"
+            "name" : "Blissey",
+            "version_game": ""
         },
         {
             "id" : 46,
-            "name" : "Azurill"
+            "name" : "Azurill",
+            "version_game": ""
         },
         {
             "id" : 47,
-            "name" : "Marill"
+            "name" : "Marill",
+            "version_game": ""
         },
         {
             "id" : 48,
-            "name" : "Azumarill"
+            "name" : "Azumarill",
+            "version_game": ""
         },
         {
             "id" : 49,
-            "name" : "Surskit"
+            "name" : "Surskit",
+            "version_game": ""
         },
         {
             "id" : 50,
-            "name" : "Masquerain"
+            "name" : "Masquerain",
+            "version_game": ""
         },
         {
             "id" : 51,
-            "name" : "Buizel"
+            "name" : "Buizel",
+            "version_game": ""
         },
         {
             "id" : 52,
-            "name" : "Floatzel"
+            "name" : "Floatzel",
+            "version_game": ""
         },
         {
             "id" : 53,
-            "name" : "Wooper"
+            "name" : "Wooper",
+            "version_game": ""
         },
         {
             "id" : 54,
-            "name" : "Clodsire"
+            "name" : "Clodsire",
+            "version_game": ""
         },
         {
             "id" : 55,
-            "name" : "Psyduck"
+            "name" : "Psyduck",
+            "version_game": ""
         },
         {
             "id" : 56,
-            "name" : "Golduck"
+            "name" : "Golduck",
+            "version_game": ""
         },
         {
             "id" : 57,
-            "name" : "Chewtle"
+            "name" : "Chewtle",
+            "version_game": ""
         },
         {
             "id" : 58,
-            "name" : "Drednaw"
+            "name" : "Drednaw",
+            "version_game": ""
         },
         {
             "id" : 59,
-            "name" : "Igglybuff"
+            "name" : "Igglybuff",
+            "version_game": ""
         },
         {
             "id" : 60,
-            "name" : "Jigglypuff"
+            "name" : "Jigglypuff",
+            "version_game": ""
         },
         {
             "id" : 61,
-            "name" : "Wigglytuff"
+            "name" : "Wigglytuff",
+            "version_game": ""
         },
         {
             "id" : 62,
-            "name" : "Ralts"
+            "name" : "Ralts",
+            "version_game": ""
         },
         {
             "id" : 63,
-            "name" : "Kirlia"
+            "name" : "Kirlia",
+            "version_game": ""
         },
         {
             "id" : 64,
-            "name" : "Gardevoir"
+            "name" : "Gardevoir",
+            "version_game": ""
         },
         {
             "id" : 65,
-            "name" : "Gallade"
+            "name" : "Gallade",
+            "version_game": ""
         },
         {
             "id" : 66,
-            "name" : "Drowzee"
+            "name" : "Drowzee",
+            "version_game": ""
         },
         {
             "id" : 67,
-            "name" : "Hypno"
+            "name" : "Hypno",
+            "version_game": ""
         },
         {
             "id" : 68,
-            "name" : "Gastly"
+            "name" : "Gastly",
+            "version_game": ""
         },
         {
             "id" : 69,
-            "name" : "Haunter"
+            "name" : "Haunter",
+            "version_game": ""
         },
         {
             "id" : 70,
-            "name" : "Gengar"
+            "name" : "Gengar",
+            "version_game": ""
         },
         {
             "id" : 71,
-            "name" : "Tandemaus"
+            "name" : "Tandemaus",
+            "version_game": ""
         },
         {
             "id" : 72,
-            "name" : "Maushold"
+            "name" : "Maushold",
+            "version_game": ""
         },
         {
             "id" : 73,
-            "name" : "Pichu"
+            "name" : "Pichu",
+            "version_game": ""
         },
         {
             "id" : 74,
-            "name" : "Pikachu"
+            "name" : "Pikachu",
+            "version_game": ""
         },
         {
             "id" : 75,
-            "name" : "Raichu"
+            "name" : "Raichu",
+            "version_game": ""
         },
         {
             "id" : 76,
-            "name" : "Fidough"
+            "name" : "Fidough",
+            "version_game": ""
         },
         {
             "id" : 77,
-            "name" : "Dachsbun"
+            "name" : "Dachsbun",
+            "version_game": ""
         },
         {
             "id" : 78,
-            "name" : "Slakoth"
+            "name" : "Slakoth",
+            "version_game": ""
         },
         {
             "id" : 79,
-            "name" : "Vigoroth"
+            "name" : "Vigoroth",
+            "version_game": ""
         },
         {
             "id" : 80,
-            "name" : "Slaking"
+            "name" : "Slaking",
+            "version_game": ""
         },
         {
             "id" : 81,
-            "name" : "Bounsweet"
+            "name" : "Bounsweet",
+            "version_game": ""
         },
         {
             "id" : 82,
-            "name" : "Steenee"
+            "name" : "Steenee",
+            "version_game": ""
         },
         {
             "id" : 83,
-            "name" : "Tsareena"
+            "name" : "Tsareena",
+            "version_game": ""
         },
         {
             "id" : 84,
-            "name" : "Smoliv"
+            "name" : "Smoliv",
+            "version_game": ""
         },
         {
             "id" : 85,
-            "name" : "Dolliv"
+            "name" : "Dolliv",
+            "version_game": ""
         },
         {
             "id" : 86,
-            "name" : "Arboliva"
+            "name" : "Arboliva",
+            "version_game": ""
         },
         {
             "id" : 87,
-            "name" : "Bonsly"
+            "name" : "Bonsly",
+            "version_game": ""
         },
         {
             "id" : 88,
-            "name" : "Sudowoodo"
+            "name" : "Sudowoodo",
+            "version_game": ""
         },
         {
             "id" : 89,
-            "name" : "Rockruff"
+            "name" : "Rockruff",
+            "version_game": ""
         },
         {
             "id" : 90,
-            "name" : "Lycanroc"
+            "name" : "Lycanroc",
+            "version_game": ""
         },
         {
             "id" : 91,
-            "name" : "Rolycoly"
+            "name" : "Rolycoly",
+            "version_game": ""
         },
         {
             "id" : 92,
-            "name" : "Carkol"
+            "name" : "Carkol",
+            "version_game": ""
         },
         {
             "id" : 93,
-            "name" : "Coalossal"
+            "name" : "Coalossal",
+            "version_game": ""
         },
         {
             "id" : 94,
-            "name" : "Shinx"
+            "name" : "Shinx",
+            "version_game": ""
         },
         {
             "id" : 95,
-            "name" : "Luxio"
+            "name" : "Luxio",
+            "version_game": ""
         },
         {
             "id" : 96,
-            "name" : "Luxray"
+            "name" : "Luxray",
+            "version_game": ""
         },
         {
             "id" : 97,
-            "name" : "Starly"
+            "name" : "Starly",
+            "version_game": ""
         },
         {
             "id" : 98,
-            "name" : "Staravia"
+            "name" : "Staravia",
+            "version_game": ""
         },
         {
             "id" : 99,
-            "name" : "Staraptor"
+            "name" : "Staraptor",
+            "version_game": ""
         },
         {
             "id" : 100,
-            "name" : "Oricorio"
+            "name" : "Oricorio",
+            "version_game": ""
         },
         {
             "id" : 101,
-            "name" : "Mareep"
+            "name" : "Mareep",
+            "version_game": ""
         },
         {
             "id" : 102,
-            "name" : "Flaaffy"
+            "name" : "Flaaffy",
+            "version_game": ""
         },
         {
             "id" : 103,
-            "name" : "Ampharos"
+            "name" : "Ampharos",
+            "version_game": ""
         },
         {
             "id" : 104,
-            "name" : "Petlil"
+            "name" : "Petlil",
+            "version_game": ""
         },
         {
             "id" : 105,
-            "name" : "Lilligant"
+            "name" : "Lilligant",
+            "version_game": ""
         },
         {
             "id" : 106,
-            "name" : "Shroomish"
+            "name" : "Shroomish",
+            "version_game": ""
         },
         {
             "id" : 107,
-            "name" : "Breloom"
+            "name" : "Breloom",
+            "version_game": ""
         },
         {
             "id" : 108,
-            "name" : "Applin"
+            "name" : "Applin",
+            "version_game": ""
         },
         {
             "id" : 109,
-            "name" : "Flapple"
+            "name" : "Flapple",
+            "version_game": ""
         },
         {
             "id" : 110,
-            "name" : "Appletun"
+            "name" : "Appletun",
+            "version_game": ""
         },
         {
             "id" : 111,
-            "name" : "Spoink"
+            "name" : "Spoink",
+            "version_game": ""
         },
         {
             "id" : 112,
-            "name" : "Grumpig"
+            "name" : "Grumpig",
+            "version_game": ""
         },
         {
             "id" : 113,
-            "name" : "Squawkabilly"
+            "name" : "Squawkabilly",
+            "version_game": ""
         },
         {
             "id" : 114,
-            "name" : "Misdreavus"
+            "name" : "Misdreavus",
+            "version_game": ""
         },
         {
             "id" : 115,
-            "name" : "Mismagius"
+            "name" : "Mismagius",
+            "version_game": ""
         },
         {
             "id" : 116,
-            "name" : "Makuhita"
+            "name" : "Makuhita",
+            "version_game": ""
         },
         {
             "id" : 117,
-            "name" : "Hariyama"
+            "name" : "Hariyama",
+            "version_game": ""
         },
         {
             "id" : 118,
-            "name" : "Crabrawler"
+            "name" : "Crabrawler",
+            "version_game": ""
         },
         {
             "id" : 119,
-            "name" : "Crabominable"
+            "name" : "Crabominable",
+            "version_game": ""
         },
         {
             "id" : 120,
-            "name" : "Salandit"
+            "name" : "Salandit",
+            "version_game": ""
         },
         {
             "id" : 121,
-            "name" : "Salazzle"
+            "name" : "Salazzle",
+            "version_game": ""
         },
         {
             "id" : 122,
-            "name" : "Phanpy"
+            "name" : "Phanpy",
+            "version_game": ""
         },
         {
             "id" : 123,
-            "name" : "Donphan"
+            "name" : "Donphan",
+            "version_game": ""
         },
         {
             "id" : 124,
-            "name" : "Cufant"
+            "name" : "Cufant",
+            "version_game": ""
         },
         {
             "id" : 125,
-            "name" : "Copperajah"
+            "name" : "Copperajah",
+            "version_game": ""
         },
         {
             "id" : 126,
-            "name" : "Gible"
+            "name" : "Gible",
+            "version_game": ""
         },
         {
             "id" : 127,
-            "name" : "Gabite"
+            "name" : "Gabite",
+            "version_game": ""
         },
         {
             "id" : 128,
-            "name" : "Garchomp"
+            "name" : "Garchomp",
+            "version_game": ""
         },
         {
             "id" : 129,
-            "name" : "Nacli"
+            "name" : "Nacli",
+            "version_game": ""
         },
         {
             "id" : 130,
-            "name" : "Naclstack"
+            "name" : "Naclstack",
+            "version_game": ""
         },
         {
             "id" : 131,
-            "name" : "Garganacl"
+            "name" : "Garganacl",
+            "version_game": ""
         },
         {
             "id" : 132,
-            "name" : "Wingull"
+            "name" : "Wingull",
+            "version_game": ""
         },
         {
             "id" : 133,
-            "name" : "Pelipper"
+            "name" : "Pelipper",
+            "version_game": ""
         },
         {
             "id" : 134,
-            "name" : "Magikarp"
+            "name" : "Magikarp",
+            "version_game": ""
         },
         {
             "id" : 135,
-            "name" : "Gyarados"
+            "name" : "Gyarados",
+            "version_game": ""
         },
         {
             "id" : 136,
-            "name" : "Arrokkuda"
+            "name" : "Arrokkuda",
+            "version_game": ""
         },
         {
             "id" : 137,
-            "name" : "Barraskewda"
+            "name" : "Barraskewda",
+            "version_game": ""
         },
         {
             "id" : 138,
-            "name" : "Basculin"
+            "name" : "Basculin",
+            "version_game": ""
         },
         {
             "id" : 139,
-            "name" : "Gulpin"
+            "name" : "Gulpin",
+            "version_game": ""
         },
         {
             "id" : 140,
-            "name" : "Swalot"
+            "name" : "Swalot",
+            "version_game": ""
         },
         {
             "id" : 141,
-            "name" : "Meowth"
+            "name" : "Meowth",
+            "version_game": ""
         },
         {
             "id" : 142,
-            "name" : "Persian"
+            "name" : "Persian",
+            "version_game": ""
         },
         {
             "id" : 143,
-            "name" : "Drifloon"
+            "name" : "Drifloon",
+            "version_game": ""
         },
         {
             "id" : 144,
-            "name" : "Drifblim"
+            "name" : "Drifblim",
+            "version_game": ""
         },
         {
             "id" : 145,
-            "name" : "flabebe"
+            "name" : "flabebe",
+            "version_game": ""
         },
         {
             "id" : 146,
-            "name" : "Floette"
+            "name" : "Floette",
+            "version_game": ""
         },
         {
             "id" : 147,
-            "name" : "Florges"
+            "name" : "Florges",
+            "version_game": ""
         },
         {
             "id" : 148,
-            "name" : "Diglett"
+            "name" : "Diglett",
+            "version_game": ""
         },
         {
             "id" : 149,
-            "name" : "Dugtrio"
+            "name" : "Dugtrio",
+            "version_game": ""
         },
         {
             "id" : 150,
-            "name" : "Torkoal"
+            "name" : "Torkoal",
+            "version_game": ""
         },
         {
             "id" : 151,
-            "name" : "Numel"
+            "name" : "Numel",
+            "version_game": ""
         },
         {
             "id" : 152,
-            "name" : "Camerupt"
+            "name" : "Camerupt",
+            "version_game": ""
         },
         {
             "id" : 153,
-            "name" : "Bronzor"
+            "name" : "Bronzor",
+            "version_game": ""
         },
         {
             "id" : 154,
-            "name" : "Bronzong"
+            "name" : "Bronzong",
+            "version_game": ""
         },
         {
             "id" : 155,
-            "name" : "Axew"
+            "name" : "Axew",
+            "version_game": ""
         },
         {
             "id" : 156,
-            "name" : "Fraxure"
+            "name" : "Fraxure",
+            "version_game": ""
         },
         {
             "id" : 157,
-            "name" : "Haxorus"
+            "name" : "Haxorus",
+            "version_game": ""
         },
         {
             "id" : 158,
-            "name" : "Mankey"
+            "name" : "Mankey",
+            "version_game": ""
         },
         {
             "id" : 159,
-            "name" : "Primeape"
+            "name" : "Primeape",
+            "version_game": ""
         },
         {
             "id" : 160,
-            "name" : "Annihilape"
+            "name" : "Annihilape",
+            "version_game": ""
         },
         {
             "id" : 161,
-            "name" : "Meditite"
+            "name" : "Meditite",
+            "version_game": ""
         },
         {
             "id" : 162,
-            "name" : "Medicham"
+            "name" : "Medicham",
+            "version_game": ""
         },
         {
             "id" : 163,
-            "name" : "Riolu"
+            "name" : "Riolu",
+            "version_game": ""
         },
         {
             "id" : 164,
-            "name" : "Lucario"
+            "name" : "Lucario",
+            "version_game": ""
         },
         {
             "id" : 165,
-            "name" : "Charcadet"
+            "name" : "Charcadet",
+            "version_game": ""
         },
         {
             "id" : 166,
-            "name" : "Armarouge"
+            "name" : "Armarouge",
+            "version_game": ""
         },
         {
             "id" : 167,
-            "name" : "Ceruledge"
+            "name" : "Ceruledge",
+            "version_game": ""
         },
         {
             "id" : 168,
-            "name" : "Barboach"
+            "name" : "Barboach",
+            "version_game": ""
         },
         {
             "id" : 169,
-            "name" : "Whiscash"
+            "name" : "Whiscash",
+            "version_game": ""
         },
         {
             "id" : 170,
-            "name" : "Tadbulb"
+            "name" : "Tadbulb",
+            "version_game": ""
         },
         {
             "id" : 171,
-            "name" : "Bellibolt"
+            "name" : "Bellibolt",
+            "version_game": ""
         },
         {
             "id" : 172,
-            "name" : "Goomy"
+            "name" : "Goomy",
+            "version_game": ""
         },
         {
             "id" : 173,
-            "name" : "Sliggoo"
+            "name" : "Sliggoo",
+            "version_game": ""
         },
         {
             "id" : 174,
-            "name" : "Goodra"
+            "name" : "Goodra",
+            "version_game": ""
         },
         {
             "id" : 175,
-            "name" : "Croagunk"
+            "name" : "Croagunk",
+            "version_game": ""
         },
         {
             "id" : 176,
-            "name" : "Toxicroak"
+            "name" : "Toxicroak",
+            "version_game": ""
         },
         {
             "id" : 177,
-            "name" : "Wattrel"
+            "name" : "Wattrel",
+            "version_game": ""
         },
         {
             "id" : 178,
-            "name" : "Kilowattrel"
+            "name" : "Kilowattrel",
+            "version_game": ""
         },
         {
             "id" : 179,
-            "name" : "Eevee"
+            "name" : "Eevee",
+            "version_game": ""
         },
         {
             "id" : 180,
-            "name" : "Vaporeon"
+            "name" : "Vaporeon",
+            "version_game": ""
         },
         {
             "id" : 181,
-            "name" : "Jolteon"
+            "name" : "Jolteon",
+            "version_game": ""
         },
         {
             "id" : 182,
-            "name" : "Flareon"
+            "name" : "Flareon",
+            "version_game": ""
         },
         {
             "id" : 183,
-            "name" : "Espeon"
+            "name" : "Espeon",
+            "version_game": ""
         },
         {
             "id" : 184,
-            "name" : "Umbreon"
+            "name" : "Umbreon",
+            "version_game": ""
         },
         {
             "id" : 185,
-            "name" : "Leafeon"
+            "name" : "Leafeon",
+            "version_game": ""
         },
         {
             "id" : 186,
-            "name" : "Glaceon"
+            "name" : "Glaceon",
+            "version_game": ""
         },
         {
             "id" : 187,
-            "name" : "Sylveon"
+            "name" : "Sylveon",
+            "version_game": ""
         },
         {
             "id" : 188,
-            "name" : "Dunsparce"
+            "name" : "Dunsparce",
+            "version_game": ""
         },
         {
             "id" : 189,
-            "name" : "Dudunsparce"
+            "name" : "Dudunsparce",
+            "version_game": ""
         },
         {
             "id" : 190,
-            "name" : "Deerling"
+            "name" : "Deerling",
+            "version_game": ""
         },
         {
             "id" : 191,
-            "name" : "Sawsbuck"
+            "name" : "Sawsbuck",
+            "version_game": ""
         },
         {
             "id" : 192,
-            "name" : "Girafarig"
+            "name" : "Girafarig",
+            "version_game": ""
         },
         {
             "id" : 193,
-            "name" : "Farigiraf"
+            "name" : "Farigiraf",
+            "version_game": ""
         },
         {
             "id" : 194,
-            "name" : "Grimer"
+            "name" : "Grimer",
+            "version_game": ""
         },
         {
             "id" : 195,
-            "name" : "Muk"
+            "name" : "Muk",
+            "version_game": ""
         },
         {
             "id" : 196,
-            "name" : "Maschiff"
+            "name" : "Maschiff",
+            "version_game": ""
         },
         {
             "id" : 197,
-            "name" : "Mabosstiff"
+            "name" : "Mabosstiff",
+            "version_game": ""
         },
         {
             "id" : 198,
-            "name" : "Toxel"
+            "name" : "Toxel",
+            "version_game": ""
         },
         {
             "id" : 199,
-            "name" : "Toxtricity"
+            "name" : "Toxtricity",
+            "version_game": ""
         },
         {
             "id" : 200,
-            "name" : "Dedenne"
+            "name" : "Dedenne",
+            "version_game": ""
         },
         {
             "id" : 201,
-            "name" : "Pachirisu"
+            "name" : "Pachirisu",
+            "version_game": ""
         },
         {
             "id" : 202,
-            "name" : "Shroodle"
+            "name" : "Shroodle",
+            "version_game": ""
         },
         {
             "id" : 203,
-            "name" : "Grafaiai"
+            "name" : "Grafaiai",
+            "version_game": ""
         },
         {
             "id" : 204,
-            "name" : "Stantler"
+            "name" : "Stantler",
+            "version_game": ""
         },
         {
             "id" : 205,
-            "name" : "Foongus"
+            "name" : "Foongus",
+            "version_game": ""
         },
         {
             "id" : 206,
-            "name" : "Amoonguss"
+            "name" : "Amoonguss",
+            "version_game": ""
         },
         {
             "id" : 207,
-            "name" : "Voltorb"
+            "name" : "Voltorb",
+            "version_game": ""
         },
         {
             "id" : 208,
-            "name" : "Electrode"
+            "name" : "Electrode",
+            "version_game": ""
         },
         {
             "id" : 209,
-            "name" : "Magnemite"
+            "name" : "Magnemite",
+            "version_game": ""
         },
         {
             "id" : 210,
-            "name" : "Magneton"
+            "name" : "Magneton",
+            "version_game": ""
         },
         {
             "id" : 211,
-            "name" : "Magnezone"
+            "name" : "Magnezone",
+            "version_game": ""
         },
         {
             "id" : 212,
-            "name" : "Ditto"
+            "name" : "Ditto",
+            "version_game": ""
         },
         {
             "id" : 213,
-            "name" : "Growlithe"
+            "name" : "Growlithe",
+            "version_game": ""
         },
         {
             "id" : 214,
-            "name" : "Arcanine"
+            "name" : "Arcanine",
+            "version_game": ""
         },
         {
             "id" : 215,
-            "name" : "Teddiursa"
+            "name" : "Teddiursa",
+            "version_game": ""
         },
         {
             "id" : 216,
-            "name" : "Ursaring"
+            "name" : "Ursaring",
+            "version_game": ""
         },
         {
             "id" : 217,
-            "name" : "Zangoose"
+            "name" : "Zangoose",
+            "version_game": ""
         },
         {
             "id" : 218,
-            "name" : "Seviper"
+            "name" : "Seviper",
+            "version_game": ""
         },
         {
             "id" : 219,
-            "name" : "Swablu"
+            "name" : "Swablu",
+            "version_game": ""
         },
         {
             "id" : 220,
-            "name" : "Altaria"
+            "name" : "Altaria",
+            "version_game": ""
         },
         {
             "id" : 221,
-            "name" : "Skiddo"
+            "name" : "Skiddo",
+            "version_game": ""
         },
         {
             "id" : 222,
-            "name" : "Gogoat"
+            "name" : "Gogoat",
+            "version_game": ""
         },
         {
             "id" : 223,
-            "name" : "Tauros"
+            "name" : "Tauros",
+            "version_game": ""
         },
         {
             "id" : 224,
-            "name" : "Litleo"
+            "name" : "Litleo",
+            "version_game": ""
         },
         {
             "id" : 225,
-            "name" : "Pyroar"
+            "name" : "Pyroar",
+            "version_game": ""
         },
         {
             "id" : 226,
-            "name" : "Stunky"
+            "name" : "Stunky",
+            "version_game": ""
         },
         {
             "id" : 227,
-            "name" : "Skuntank"
+            "name" : "Skuntank",
+            "version_game": ""
         },
         {
             "id" : 228,
-            "name" : "Zorua"
+            "name" : "Zorua",
+            "version_game": ""
         },
         {
             "id" : 229,
-            "name" : "Zoroark"
+            "name" : "Zoroark",
+            "version_game": ""
         },
         {
             "id" : 230,
-            "name" : "Sneasel"
+            "name" : "Sneasel",
+            "version_game": ""
         },
         {
             "id" : 231,
-            "name" : "Weavile"
+            "name" : "Weavile",
+            "version_game": ""
         },
         {
             "id" : 232,
-            "name" : "Murkrow"
+            "name" : "Murkrow",
+            "version_game": ""
         },
         {
             "id" : 233,
-            "name" : "Honchkrow"
+            "name" : "Honchkrow",
+            "version_game": ""
         },
         {
             "id" : 234,
-            "name" : "Gothita"
+            "name" : "Gothita",
+            "version_game": ""
         },
         {
             "id" : 235,
-            "name" : "Gothorita"
+            "name" : "Gothorita",
+            "version_game": ""
         },
         {
             "id" : 236,
-            "name" : "Gothitelle"
+            "name" : "Gothitelle",
+            "version_game": ""
         },
         {
             "id" : 237,
-            "name" : "Sinistea"
+            "name" : "Sinistea",
+            "version_game": ""
         },
         {
             "id" : 238,
-            "name" : "Polteageist"
+            "name" : "Polteageist",
+            "version_game": ""
         },
         {
             "id" : 239,
-            "name" : "Mimikyu"
+            "name" : "Mimikyu",
+            "version_game": ""
         },
         {
             "id" : 240,
-            "name" : "Klefki"
+            "name" : "Klefki",
+            "version_game": ""
         },
         {
             "id" : 241,
-            "name" : "Indeedee"
+            "name" : "Indeedee",
+            "version_game": ""
         },
         {
             "id" : 242,
-            "name" : "Bramblin"
+            "name" : "Bramblin",
+            "version_game": ""
         },
         {
             "id" : 243,
-            "name" : "Brambleghast"
+            "name" : "Brambleghast",
+            "version_game": ""
         },
         {
             "id" : 244,
-            "name" : "Toedscool"
+            "name" : "Toedscool",
+            "version_game": ""
         },
         {
             "id" : 245,
-            "name" : "Toedscruel"
+            "name" : "Toedscruel",
+            "version_game": ""
         },
         {
             "id" : 246,
-            "name" : "Tropius"
+            "name" : "Tropius",
+            "version_game": ""
         },
         {
             "id" : 247,
-            "name" : "Fomantis"
+            "name" : "Fomantis",
+            "version_game": ""
         },
         {
             "id" : 248,
-            "name" : "Lurantis"
+            "name" : "Lurantis",
+            "version_game": ""
         },
         {
             "id" : 249,
-            "name" : "Klawf"
+            "name" : "Klawf",
+            "version_game": ""
         },
         {
             "id" : 250,
-            "name" : "Capsakid"
+            "name" : "Capsakid",
+            "version_game": ""
         },
         {
             "id" : 251,
-            "name" : "Scovillain"
+            "name" : "Scovillain",
+            "version_game": ""
         },
         {
             "id" : 252,
-            "name" : "Cacnea"
+            "name" : "Cacnea",
+            "version_game": ""
         },
         {
             "id" : 253,
-            "name" : "Cacturne"
+            "name" : "Cacturne",
+            "version_game": ""
         },
         {
             "id" : 254,
-            "name" : "Rellor"
+            "name" : "Rellor",
+            "version_game": ""
         },
         {
             "id" : 255,
-            "name" : "Rabsca"
+            "name" : "Rabsca",
+            "version_game": ""
         },
         {
             "id" : 256,
-            "name" : "Venonat"
+            "name" : "Venonat",
+            "version_game": ""
         },
         {
             "id" : 257,
-            "name" : "Venomoth"
+            "name" : "Venomoth",
+            "version_game": ""
         },
         {
             "id" : 258,
-            "name" : "Pineco"
+            "name" : "Pineco",
+            "version_game": ""
         },
         {
             "id" : 259,
-            "name" : "Forretress"
+            "name" : "Forretress",
+            "version_game": ""
         },
         {
             "id" : 260,
-            "name" : "Scyther"
+            "name" : "Scyther",
+            "version_game": ""
         },
         {
             "id" : 261,
-            "name" : "Scizor"
+            "name" : "Scizor",
+            "version_game": ""
         },
         {
             "id" : 262,
-            "name" : "Heracross"
+            "name" : "Heracross",
+            "version_game": ""
         },
         {
             "id" : 263,
-            "name" : "Flittle"
+            "name" : "Flittle",
+            "version_game": ""
         },
         {
             "id" : 264,
-            "name" : "Espathra"
+            "name" : "Espathra",
+            "version_game": ""
         },
         {
             "id" : 265,
-            "name" : "Hippopotas"
+            "name" : "Hippopotas",
+            "version_game": ""
         },
         {
             "id" : 266,
-            "name" : "Hippowdon"
+            "name" : "Hippowdon",
+            "version_game": ""
         },
         {
             "id" : 267,
-            "name" : "Sandile"
+            "name" : "Sandile",
+            "version_game": ""
         },
         {
             "id" : 268,
-            "name" : "Krokorok"
+            "name" : "Krokorok",
+            "version_game": ""
         },
         {
             "id" : 269,
-            "name" : "Krookodile"
+            "name" : "Krookodile",
+            "version_game": ""
         },
         {
             "id" : 270,
-            "name" : "Silicobra"
+            "name" : "Silicobra",
+            "version_game": ""
         },
         {
             "id" : 271,
-            "name" : "Sandaconda"
+            "name" : "Sandaconda",
+            "version_game": ""
         },
         {
             "id" : 272,
-            "name" : "Mudbray"
+            "name" : "Mudbray",
+            "version_game": ""
         },
         {
             "id" : 273,
-            "name" : "Mudsdale"
+            "name" : "Mudsdale",
+            "version_game": ""
         },
         {
             "id" : 274,
-            "name" : "Larvesta"
+            "name" : "Larvesta",
+            "version_game": ""
         },
         {
             "id" : 275,
-            "name" : "Volcarona"
+            "name" : "Volcarona",
+            "version_game": ""
         },
         {
             "id" : 276,
-            "name" : "Bagon"
+            "name" : "Bagon",
+            "version_game": ""
         },
         {
             "id" : 277,
-            "name" : "Shelgon"
+            "name" : "Shelgon",
+            "version_game": ""
         },
         {
             "id" : 278,
-            "name" : "Salamence"
+            "name" : "Salamence",
+            "version_game": ""
         },
         {
             "id" : 279,
-            "name" : "Tinkatink"
+            "name" : "Tinkatink",
+            "version_game": ""
         },
         {
             "id" : 280,
-            "name" : "Tinkatuff"
+            "name" : "Tinkatuff",
+            "version_game": ""
         },
         {
             "id" : 281,
-            "name" : "Tinkaton"
+            "name" : "Tinkaton",
+            "version_game": ""
         },
         {
             "id" : 282,
-            "name" : "Hatenna"
+            "name" : "Hatenna",
+            "version_game": ""
         },
         {
             "id" : 283,
-            "name" : "Hattrem"
+            "name" : "Hattrem",
+            "version_game": ""
         },
         {
             "id" : 284,
-            "name" : "Hatterene"
+            "name" : "Hatterene",
+            "version_game": ""
         },
         {
             "id" : 285,
-            "name" : "Impidimp"
+            "name" : "Impidimp",
+            "version_game": ""
         },
         {
             "id" : 286,
-            "name" : "Morgrem"
+            "name" : "Morgrem",
+            "version_game": ""
         },
         {
             "id" : 287,
-            "name" : "Grimmsnarl"
+            "name" : "Grimmsnarl",
+            "version_game": ""
         },
         {
             "id" : 288,
-            "name" : "Wiglett"
+            "name" : "Wiglett",
+            "version_game": ""
         },
         {
             "id" : 289,
-            "name" : "Wugtrio"
+            "name" : "Wugtrio",
+            "version_game": ""
         },
         {
             "id" : 290,
-            "name" : "Bombirdier"
+            "name" : "Bombirdier",
+            "version_game": ""
         },
         {
             "id" : 291,
-            "name" : "Finizen"
+            "name" : "Finizen",
+            "version_game": ""
         },
         {
             "id" : 292,
-            "name" : "Palafin"
+            "name" : "Palafin",
+            "version_game": ""
         },
         {
             "id" : 293,
-            "name" : "Varoom"
+            "name" : "Varoom",
+            "version_game": ""
         },
         {
             "id" : 294,
-            "name" : "Revavroom"
+            "name" : "Revavroom",
+            "version_game": ""
         },
         {
             "id" : 295,
-            "name" : "Cyclizar"
+            "name" : "Cyclizar",
+            "version_game": ""
         },
         {
             "id" : 296,
-            "name" : "Orthworm"
+            "name" : "Orthworm",
+            "version_game": ""
         },
         {
             "id" : 297,
-            "name" : "Sableye"
+            "name" : "Sableye",
+            "version_game": ""
         },
         {
             "id" : 298,
-            "name" : "Shuppet"
+            "name" : "Shuppet",
+            "version_game": ""
         },
         {
             "id" : 299,
-            "name" : "Banette"
+            "name" : "Banette",
+            "version_game": ""
         },
         {
             "id" : 300,
-            "name" : "Falinks"
+            "name" : "Falinks",
+            "version_game": ""
         },
         {
             "id" : 301,
-            "name" : "Hawlucha"
+            "name" : "Hawlucha",
+            "version_game": ""
         },
         {
             "id" : 302,
-            "name" : "Spiritomb"
+            "name" : "Spiritomb",
+            "version_game": ""
         },
         {
             "id" : 303,
-            "name" : "Noibat"
+            "name" : "Noibat",
+            "version_game": ""
         },
         {
             "id" : 304,
-            "name" : "Noivern"
+            "name" : "Noivern",
+            "version_game": ""
         },
         {
             "id" : 305,
-            "name" : "Dreepy"
+            "name" : "Dreepy",
+            "version_game": ""
         },
         {
             "id" : 306,
-            "name" : "Drakloak"
+            "name" : "Drakloak",
+            "version_game": ""
         },
         {
             "id" : 307,
-            "name" : "Dragapult"
+            "name" : "Dragapult",
+            "version_game": ""
         },
         {
             "id" : 308,
-            "name" : "Glimmet"
+            "name" : "Glimmet",
+            "version_game": ""
         },
         {
             "id" : 309,
-            "name" : "Glimmora"
+            "name" : "Glimmora",
+            "version_game": ""
         },
         {
             "id" : 310,
-            "name" : "Rotom"
+            "name" : "Rotom",
+            "version_game": ""
         },
         {
             "id" : 311,
-            "name" : "Greavard"
+            "name" : "Greavard",
+            "version_game": ""
         },
         {
             "id" : 312,
-            "name" : "Houndstone"
+            "name" : "Houndstone",
+            "version_game": ""
         },
         {
             "id" : 313,
-            "name" : "Oranguru"
+            "name" : "Oranguru",
+            "version_game": ""
         },
         {
             "id" : 314,
-            "name" : "Passimian"
+            "name" : "Passimian",
+            "version_game": ""
         },
         {
             "id" : 315,
-            "name" : "Komala"
+            "name" : "Komala",
+            "version_game": ""
         },
         {
             "id" : 316,
-            "name" : "Larvitar"
+            "name" : "Larvitar",
+            "version_game": ""
         },
         {
             "id" : 317,
-            "name" : "Pupitar"
+            "name" : "Pupitar",
+            "version_game": ""
         },
         {
             "id" : 318,
-            "name" : "Tyranitar"
+            "name" : "Tyranitar",
+            "version_game": ""
         },
         {
             "id" : 319,
-            "name" : "Stonjourner"
+            "name" : "Stonjourner",
+            "version_game": ""
         },
         {
             "id" : 320,
-            "name" : "Eiscue"
+            "name" : "Eiscue",
+            "version_game": ""
         },
         {
             "id" : 321,
-            "name" : "Pincurchin"
+            "name" : "Pincurchin",
+            "version_game": ""
         },
         {
             "id" : 322,
-            "name" : "Sandygast"
+            "name" : "Sandygast",
+            "version_game": ""
         },
         {
             "id" : 323,
-            "name" : "Palossand"
+            "name" : "Palossand",
+            "version_game": ""
         },
         {
             "id" : 324,
-            "name" : "Slowpoke"
+            "name" : "Slowpoke",
+            "version_game": ""
         },
         {
             "id" : 325,
-            "name" : "Slowbro"
+            "name" : "Slowbro",
+            "version_game": ""
         },
         {
             "id" : 326,
-            "name" : "Slowking"
+            "name" : "Slowking",
+            "version_game": ""
         },
         {
             "id" : 327,
-            "name" : "Shellos"
+            "name" : "Shellos",
+            "version_game": ""
         },
         {
             "id" : 328,
-            "name" : "Gastrodon"
+            "name" : "Gastrodon",
+            "version_game": ""
         },
         {
             "id" : 329,
-            "name" : "Shellder"
+            "name" : "Shellder",
+            "version_game": ""
         },
         {
             "id" : 330,
-            "name" : "Cloyster"
+            "name" : "Cloyster",
+            "version_game": ""
         },
         {
             "id" : 331,
-            "name" : "Qwilfish"
+            "name" : "Qwilfish",
+            "version_game": ""
         },
         {
             "id" : 332,
-            "name" : "Luvdisc"
+            "name" : "Luvdisc",
+            "version_game": ""
         },
         {
             "id" : 333,
-            "name" : "Finneon"
+            "name" : "Finneon",
+            "version_game": ""
         },
         {
             "id" : 334,
-            "name" : "Lumineon"
+            "name" : "Lumineon",
+            "version_game": ""
         },
         {
             "id" : 335,
-            "name" : "Bruxish"
+            "name" : "Bruxish",
+            "version_game": ""
         },
         {
             "id" : 336,
-            "name" : "Alomomola"
+            "name" : "Alomomola",
+            "version_game": ""
         },
         {
             "id" : 337,
-            "name" : "Skrelp"
+            "name" : "Skrelp",
+            "version_game": ""
         },
         {
             "id" : 338,
-            "name" : "Dragalge"
+            "name" : "Dragalge",
+            "version_game": ""
         },
         {
             "id" : 339,
-            "name" : "Clauncher"
+            "name" : "Clauncher",
+            "version_game": ""
         },
         {
             "id" : 340,
-            "name" : "Clawitzer"
+            "name" : "Clawitzer",
+            "version_game": ""
         },
         {
             "id" : 341,
-            "name" : "Tynamo"
+            "name" : "Tynamo",
+            "version_game": ""
         },
         {
             "id" : 342,
-            "name" : "Eelektrik"
+            "name" : "Eelektrik",
+            "version_game": ""
         },
         {
             "id" : 343,
-            "name" : "Eelektross"
+            "name" : "Eelektross",
+            "version_game": ""
         },
         {
             "id" : 344,
-            "name" : "Mareanie"
+            "name" : "Mareanie",
+            "version_game": ""
         },
         {
             "id" : 345,
-            "name" : "Toxapex"
+            "name" : "Toxapex",
+            "version_game": ""
         },
         {
             "id" : 346,
-            "name" : "Flamigo"
+            "name" : "Flamigo",
+            "version_game": ""
         },
         {
             "id" : 347,
-            "name" : "Dratini"
+            "name" : "Dratini",
+            "version_game": ""
         },
         {
             "id" : 348,
-            "name" : "Dragonair"
+            "name" : "Dragonair",
+            "version_game": ""
         },
         {
             "id" : 349,
-            "name" : "Dragonite"
+            "name" : "Dragonite",
+            "version_game": ""
         },
         {
             "id" : 350,
-            "name" : "Snom"
+            "name" : "Snom",
+            "version_game": ""
         },
         {
             "id" : 351,
-            "name" : "Frosmoth"
+            "name" : "Frosmoth",
+            "version_game": ""
         },
         {
             "id" : 352,
-            "name" : "Snover"
+            "name" : "Snover",
+            "version_game": ""
         },
         {
             "id" : 353,
-            "name" : "Abomasnow"
+            "name" : "Abomasnow",
+            "version_game": ""
         },
         {
             "id" : 354,
-            "name" : "Delibird"
+            "name" : "Delibird",
+            "version_game": ""
         },
         {
             "id" : 355,
-            "name" : "Cubchoo"
+            "name" : "Cubchoo",
+            "version_game": ""
         },
         {
             "id" : 356,
-            "name" : "Beartic"
+            "name" : "Beartic",
+            "version_game": ""
         },
         {
             "id" : 357,
-            "name" : "Snorunt"
+            "name" : "Snorunt",
+            "version_game": ""
         },
         {
             "id" : 358,
-            "name" : "Glalie"
+            "name" : "Glalie",
+            "version_game": ""
         },
         {
             "id" : 359,
-            "name" : "Froslass"
+            "name" : "Froslass",
+            "version_game": ""
         },
         {
             "id" : 360,
-            "name" : "Cryogonal"
+            "name" : "Cryogonal",
+            "version_game": ""
         },
         {
             "id" : 361,
-            "name" : "Cetoddle"
+            "name" : "Cetoddle",
+            "version_game": ""
         },
         {
             "id" : 362,
-            "name" : "Cetitan"
+            "name" : "Cetitan",
+            "version_game": ""
         },
         {
             "id" : 363,
-            "name" : "Bergmite"
+            "name" : "Bergmite",
+            "version_game": ""
         },
         {
             "id" : 364,
-            "name" : "Avalugg"
+            "name" : "Avalugg",
+            "version_game": ""
         },
         {
             "id" : 365,
-            "name" : "Rufflet"
+            "name" : "Rufflet",
+            "version_game": ""
         },
         {
             "id" : 366,
-            "name" : "Braviary"
+            "name" : "Braviary",
+            "version_game": ""
         },
         {
             "id" : 367,
-            "name" : "Pawniard"
+            "name" : "Pawniard",
+            "version_game": ""
         },
         {
             "id" : 368,
-            "name" : "Bisharp"
+            "name" : "Bisharp",
+            "version_game": ""
         },
         {
             "id" : 369,
-            "name" : "Kingambit"
+            "name" : "Kingambit",
+            "version_game": ""
         },
         {
             "id" : 370,
-            "name" : "Deino"
+            "name" : "Deino",
+            "version_game": ""
         },
         {
             "id" : 371,
-            "name" : "Zweilous"
+            "name" : "Zweilous",
+            "version_game": ""
         },
         {
             "id" : 372,
-            "name" : "Hydreigon"
+            "name" : "Hydreigon",
+            "version_game": ""
         },
         {
             "id" : 373,
-            "name" : "Veluza"
+            "name" : "Veluza",
+            "version_game": ""
         },
         {
             "id" : 374,
-            "name" : "Dondozo"
+            "name" : "Dondozo",
+            "version_game": ""
         },
         {
             "id" : 375,
-            "name" : "Tatsugiri"
+            "name" : "Tatsugiri",
+            "version_game": ""
         },
         {
             "id" : 376,
-            "name" : "Great Tusk"
+            "name" : "Great Tusk",
+            "version_game": ""
         },
         {
             "id" : 377,
-            "name" : "Scream Tail"
+            "name" : "Scream Tail",
+            "version_game": ""
         },
         {
             "id" : 378,
-            "name" : "Brute Bonnet"
+            "name" : "Brute Bonnet",
+            "version_game": ""
         },
         {
             "id" : 379,
-            "name" : "Flutter Mane"
+            "name" : "Flutter Mane",
+            "version_game": ""
         },
         {
             "id" : 380,
-            "name" : "Slither Wing"
+            "name" : "Slither Wing",
+            "version_game": ""
         },
         {
             "id" : 381,
-            "name" : "Sandy Shocks"
+            "name" : "Sandy Shocks",
+            "version_game": ""
         },
         {
             "id" : 382,
-            "name" : "Iron Treads"
+            "name" : "Iron Treads",
+            "version_game": ""
         },
         {
             "id" : 383,
-            "name" : "Iron Bundle"
+            "name" : "Iron Bundle",
+            "version_game": ""
         },
         {
             "id" : 384,
-            "name" : "Iron Hands"
+            "name" : "Iron Hands",
+            "version_game": ""
         },
         {
             "id" : 385,
-            "name" : "Iron Jugulis"
+            "name" : "Iron Jugulis",
+            "version_game": ""
         },
         {
             "id" : 386,
-            "name" : "Iron Moth"
+            "name" : "Iron Moth",
+            "version_game": ""
         },
         {
             "id" : 387,
-            "name" : "Iron Thorns"
+            "name" : "Iron Thorns",
+            "version_game": ""
         },
         {
             "id" : 388,
-            "name" : "Frigibax"
+            "name" : "Frigibax",
+            "version_game": ""
         },
         {
             "id" : 389,
-            "name" : "Arctibax"
+            "name" : "Arctibax",
+            "version_game": ""
         },
         {
             "id" : 390,
-            "name" : "Baxcalibur"
+            "name" : "Baxcalibur",
+            "version_game": ""
         },
         {
             "id" : 391,
-            "name" : "Gimmighoul"
+            "name" : "Gimmighoul",
+            "version_game": ""
         },
         {
             "id" : 392,
-            "name" : "Gholdengo"
+            "name" : "Gholdengo",
+            "version_game": ""
         },
         {
             "id" : 393,
-            "name" : "Wo-Chien"
+            "name" : "Wo-Chien",
+            "version_game": ""
         },
         {
             "id" : 394,
-            "name" : "Chien-Pao"
+            "name" : "Chien-Pao",
+            "version_game": ""
         },
         {
             "id" : 395,
-            "name" : "Ting-Lu"
+            "name" : "Ting-Lu",
+            "version_game": ""
         },
         {
             "id" : 396,
-            "name" : "Chi-Yu"
+            "name" : "Chi-Yu",
+            "version_game": ""
         },
         {
             "id" : 397,
-            "name" : "Roaring Moon"
+            "name" : "Roaring Moon",
+            "version_game": ""
         },
         {
             "id" : 398,
-            "name" : "Iron Valiant"
+            "name" : "Iron Valiant",
+            "version_game": ""
         },
         {
             "id" : 399,
-            "name" : "Koraidon"
+            "name" : "Koraidon",
+            "version_game": ""
         },
         {
             "id" : 400,
-            "name" : "Miraidon"
+            "name" : "Miraidon",
+            "version_game": ""
         }
     ]}
     
