@@ -1,5 +1,4 @@
-{
-    "svid_db": [
+[
         {
             "id" : 1,
             "name" : "Sprigatito",
@@ -2000,5 +1999,4 @@
             "name" : "Miraidon",
             "version_game": ""
         }
-    ]}
-    
+]
