@@ -5,15 +5,18 @@ const PokeTeam = require('./PokeTeam');
 const Team = require('./Team');
 const User = require('./User');
 
-Game.belongsTo(Generation);
-
 Generation.hasMany(Game);
 
-Pokemon.belongsToMany(Game, {
-    foreignKey: 'version_game'
+Game.belongsTo(Generation, {
+    foreignKey: 'generation_name'
 });
 
 Game.hasMany(Pokemon);
+
+Pokemon.belongsToMany(Game, {
+    foreignKey: 'version_game',
+    through: Game
+});
 
 User.hasMany(Team, {
     foreignKey: 'user_id',
@@ -32,7 +35,7 @@ Pokemon.belongsToMany(Team, {
     through: PokeTeam
 });
 
-Team.hasMany(Pokemon, {
+Team.belongsToMany(Pokemon, {
     through: PokeTeam
 });
 
