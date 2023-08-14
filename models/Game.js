@@ -29,6 +29,11 @@ Game.init(
         freezeTableName: true,
         underscored: true,
         modelName: 'game',
+        indexes: [
+            {
+                fields: ['name']
+            }
+        ]
     }
 );
 

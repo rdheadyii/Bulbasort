@@ -1,7 +1,7 @@
 const { Model, DataTypes } = require('sequelize');
 const sequelize = require('../config/connection.js');
 
-class Generation extends Model {}
+class Generation extends Model { }
 
 Generation.init(
     {
@@ -22,6 +22,11 @@ Generation.init(
         freezeTableName: true,
         underscored: true,
         modelName: 'generation',
+        indexes: [
+            {
+                fields: ['name']
+            }
+        ]
     }
 );
 

@@ -18,6 +18,11 @@ const seedDatabase = async () => {
         returning: true,
     });
 
+    // seed generation data
+    await Generation.bulkCreate(genData, {
+        returning: true,
+    });
+
     // seed game data
     await Game.bulkCreate(gameData, {
         returning: true,
@@ -30,11 +35,6 @@ const seedDatabase = async () => {
             user_id: users[Math.floor(Math.random() * users.length)].id,
         });
     }
-
-    // seed generation data
-    await Generation.bulkCreate(genData, {
-        returning: true,
-    });
 
     // seed pokedex data
     await Pokemon.bulkCreate(svPokedex, {
