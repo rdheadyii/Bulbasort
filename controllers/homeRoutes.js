@@ -24,3 +24,15 @@ router.get('/', async (req, res) => {
       res.status(500).json(err);
     }
   });
+
+// This will render the login screen unless already logged in
+router.get('/login', (req, res) => {
+    if (req.session.logged_in) {
+      res.redirect('/');
+      return;
+    }
+  
+    res.render('login');
+  });
+  
+  module.exports = router;
