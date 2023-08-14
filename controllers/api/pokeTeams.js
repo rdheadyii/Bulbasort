@@ -21,7 +21,7 @@ router.get("/:id", async (req, res) => {
   } catch (err) {
     console.error("failed to retreive pokemon", err);
     res.status(500).json(err);
-  }
+  }4
 });
 
 // creates new team
