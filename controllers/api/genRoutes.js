@@ -1,11 +1,11 @@
 const router = require('express').Router();
-const { Game } = require('../../models');
+const { Generation } = require('../../models');
 const withAuth = require('../../utils/auth');
 
 router.get('/', withAuth, async (req, res) => {
     try{
-        const games = await Game.findAll();
-        res.status(200).json(games);
+        const Generation = await Generation.findAll();
+        res.status(200).json(Generation);
     }
     catch (err) {
         console.error('failed to retreive pokemon', err);
