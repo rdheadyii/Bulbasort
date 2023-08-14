@@ -41,6 +41,9 @@ const seedDatabase = async () => {
         returning: true,
     });
 
+    // seed pokeTeamData
+    await PokeTeam.bulkCreate(pokeTeamData);
+
     process.exit(0);
 };
 
