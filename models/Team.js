@@ -43,3 +43,5 @@ Team.init(
         modelName: 'team',
     }
 );
+
+module.exports = Team;
