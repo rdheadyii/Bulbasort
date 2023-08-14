@@ -43,7 +43,6 @@ router.put("/:id", withAuth, async (req, res) => {
     const pokeTeamData = await pokeTeam.update(req.body, {
       where: {
         id: req.params.id,
-        user_id: req.session.user_id,
       },
     });
     if (!pokeTeamData) {
@@ -62,7 +61,6 @@ router.delete("/:id", withAuth, async (req, res) => {
     const pokeTeamData = await PokeTeam.destroy({
       where: {
         id: req.params.id,
-        user_id: req.session.user_id,
       },
     });
     if (!pokeTeamData) {
