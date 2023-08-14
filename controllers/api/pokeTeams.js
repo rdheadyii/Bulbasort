@@ -16,7 +16,7 @@ router.get("/", async (req, res) => {
 // shows specific team
 router.get("/:id", async (req, res) => {
   try {
-    const pokeTeam = await PokeTeam.findByPk(req.body.id);
+    const pokeTeam = await PokeTeam.findByPk(req.params.id);
     res.status(200).json(pokeTeam);
   } catch (err) {
     console.error("failed to retreive pokemon", err);
