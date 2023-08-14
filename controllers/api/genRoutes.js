@@ -1,11 +1,10 @@
 const router = require('express').Router();
 const { Generation } = require('../../models');
-const withAuth = require('../../utils/auth');
 
-router.get('/', withAuth, async (req, res) => {
+router.get('/', async (req, res) => {
     try{
-        const Generation = await Generation.findAll();
-        res.status(200).json(Generation);
+        const generation = await Generation.findAll();
+        res.status(200).json(generation);
     }
     catch (err) {
         console.error('failed to retreive pokemon', err);
@@ -13,10 +12,10 @@ router.get('/', withAuth, async (req, res) => {
     }
 });
 
-router.get('/:id', withAuth, async (req, res) => {
+router.get('/:id', async (req, res) => {
     try{
-        const Generation = await Generation.findByPk(req.body.id);
-        res.status(200).json(Generation);
+        const generation = await Generation.findByPk(req.params.id);
+        res.status(200).json(generation);
     }
     catch (err) {
         console.error('failed to retreive pokemon', err);
