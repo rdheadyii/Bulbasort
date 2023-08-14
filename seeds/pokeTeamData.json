@@ -1,0 +1,50 @@
+[
+    {
+        "pokemon_id": 3,
+        "team_id": 1
+    },
+    {
+        "pokemon_id": 57,
+        "team_id": 1
+    },
+    {
+        "pokemon_id": 132,
+        "team_id": 1
+    },
+    {
+        "pokemon_id": 290,
+        "team_id": 1
+    },
+    {
+        "pokemon_id": 86,
+        "team_id": 1
+    },
+    {
+        "pokemon_id": 311,
+        "team_id": 1
+    },
+    {
+        "pokemon_id": 6,
+        "team_id": 2
+    },
+    {
+        "pokemon_id": 70,
+        "team_id": 2
+    },
+    {
+        "pokemon_id": 83,
+        "team_id": 2
+    },
+    {
+        "pokemon_id": 240,
+        "team_id": 2
+    },
+    {
+        "pokemon_id": 191,
+        "team_id": 2
+    },
+    {
+        "pokemon_id": 378,
+        "team_id": 2
+    }
+]
