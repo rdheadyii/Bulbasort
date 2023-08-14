@@ -43,7 +43,6 @@ router.put("/:id", withAuth, async (req, res) => {
     const teamData = await Team.update(req.body, {
       where: {
         id: req.params.id,
-        user_id: req.session.user_id,
       },
     });
     if (!teamData) {
@@ -62,7 +61,6 @@ router.delete("/:id", withAuth, async (req, res) => {
     const teamData = await Team.destroy({
       where: {
         id: req.params.id,
-        user_id: req.session.user_id,
       },
     });
     if (!teamData) {
