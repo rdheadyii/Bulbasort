@@ -15,8 +15,8 @@ router.get('/', withAuth, async (req, res) => {
 
 router.get('/:id', withAuth, async (req, res) => {
     try{
-        const games = await Game.findByPk(req.body.id);
-        res.status(200).json(games);
+        const Generation = await Generation.findByPk(req.body.id);
+        res.status(200).json(Generation);
     }
     catch (err) {
         console.error('failed to retreive pokemon', err);
