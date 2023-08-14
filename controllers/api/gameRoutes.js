@@ -2,7 +2,7 @@ const router = require('express').Router();
 const { Game } = require('../../models');
 const withAuth = require('../../utils/auth');
 
-router.get('/', withAuth, async (req, res) => {
+router.get('/', async (req, res) => {
     try{
         const games = await Game.findAll();
         res.status(200).json(games);
@@ -13,9 +13,9 @@ router.get('/', withAuth, async (req, res) => {
     }
 });
 
-router.get('/:id', withAuth, async (req, res) => {
+router.get('/:id', async (req, res) => {
     try{
-        const games = await Game.findByPk(req.body.id);
+        const games = await Game.findByPk(req.params.id);
         res.status(200).json(games);
     }
     catch (err) {
