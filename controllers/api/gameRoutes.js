@@ -7,7 +7,7 @@ router.get('/', async (req, res) => {
 
         const games = gameData.map((game) => game.get({ plain: true }));
 
-        res.render('game', {
+        res.render('generation', {
             games,
             logged_in: req.session.logged_in
         });
@@ -24,7 +24,7 @@ router.get('/:id', async (req, res) => {
 
         const game = gameData.get({plain: true});
 
-        res.render('game', {
+        res.render('generation', {
             ...game,
             logged_in: req.session.logged_in
         });
