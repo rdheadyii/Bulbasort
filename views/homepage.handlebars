@@ -1,10 +1,12 @@
-{{!-- added name and id of game to display on homepage --}}
-{{#each games as |game| }}
-<div class="row mb-4 game">
-  <div class="col-md-5">
-    <h2>
-      <a href="/game/{{game.id}}">{{game.name}}</a>
-    </h2>
+{{#each generations as |generation| }}
+<div>
+  <h3>
+    Welcome to BulbaSort! Here you can pick which Pokémon game you're playing and select the pocket monsters you want on your team!
+  </h3>
 </div>
+<div>
+  <h2>
+    <a href="/generation/{{generation.id}}">{{generation.name}}</a>
+  </h2>
 </div>
 {{/each}}
