@@ -4,10 +4,16 @@ const withAuth = require('../../utils/auth');
 
 router.get('/', withAuth, async (req, res) => {
     try{
-        const pokemon = await Pokemon.findAll();
-        res.status(200).json(pokemon);
-    }
-    catch (err) {
+        const pokemonData = await Pokemon.findAll();
+
+        const pokemons = pokemonData.map((pokemon) => pokemon.get({plain: true}));
+
+        res.render('create', {
+            pokemons,
+            logged_in: req.session.logged_in
+        });
+
+    } catch (err) {
         console.error('failed to retreive pokemon', err);
         res.status(500).json(err)
     }
@@ -15,10 +21,16 @@ router.get('/', withAuth, async (req, res) => {
 
 router.get('/:id', withAuth, async (req, res) => {
     try{
-        const pokemon = await Pokemon.findByPk(req.body.id);
-        res.status(200).json(pokemon);
-    }
-    catch (err) {
+        const pokemonData = await Pokemon.findByPk(req.params.id);
+
+        const pokemon = pokemonData.get({plain: true});
+    
+        res.render('create', {
+            ...pokemon,
+            logged_in: req.session.logged_in
+        });
+    
+    } catch (err) {
         console.error('failed to retreive pokemon', err);
         res.status(500).json(err)
     }
