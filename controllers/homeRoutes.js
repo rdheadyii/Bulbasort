@@ -8,7 +8,7 @@ router.get('/', async (req, res) => {
       res.json(err);
     });
       const generations = generationData.map((generation) => generation.get({ plain: true }));
-      res.render('all', { generations });
+      res.render('homepage', { generations });
     });
 
 // This will render the login screen unless already logged in
