@@ -1,14 +1,21 @@
 const router = require("express").Router();
-const { Team } = require("../../models");
+const { Team, PokeTeam, User } = require("../../models");
 const withAuth = require("../../utils/auth");
 
 // shows all teams
 router.get("/", async (req, res) => {
   try {
-    const team = await Team.findAll();
-    res.status(200).json(team);
+    const teamData = await Team.findAll({});
+
+    const teams = teamData.map((team) => team.get({plain: true}));
+
+    res.render('team', {
+      teams,
+      logged_in: req.session.logged_in
+    });
+
   } catch (err) {
-    console.error("failed to retreive pokemon", err);
+    console.error("failed to retreive teams", err);
     res.status(500).json(err);
   }
 });
@@ -16,10 +23,17 @@ router.get("/", async (req, res) => {
 // shows specific team
 router.get("/:id", async (req, res) => {
   try {
-    const team = await Team.findByPk(req.body.id);
-    res.status(200).json(team);
+    const teamData = await Team.findByPk(req.params.id);
+
+    const team = teamData.get({plain: true});
+
+    res.render('team', {
+      ...team,
+      logged_in: req.session.logged_in
+    });
+
   } catch (err) {
-    console.error("failed to retreive pokemon", err);
+    console.error("failed to retreive selected team", err);
     res.status(500).json(err);
   }
 });
