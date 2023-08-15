@@ -5,8 +5,15 @@ const withAuth = require("../../utils/auth");
 // shows all teams
 router.get("/", async (req, res) => {
   try {
-    const poketeam = await PokeTeam.findAll();
-    res.status(200).json(poketeam);
+    const poketeamData = await PokeTeam.findAll();
+
+    const pokeTeams = poketeamData.map((pokeTeam) => pokeTeam.get({plain: true}));
+
+    res.render('poketeam', {
+      pokeTeams,
+      logged_in: req.session.logged_in
+    });
+
   } catch (err) {
     console.error("failed to retreive pokemon", err);
     res.status(500).json(err);
@@ -16,8 +23,15 @@ router.get("/", async (req, res) => {
 // shows specific team
 router.get("/:id", async (req, res) => {
   try {
-    const pokeTeam = await PokeTeam.findByPk(req.params.id);
-    res.status(200).json(pokeTeam);
+    const poketeamData = await PokeTeam.findByPk(req.params.id);
+
+    const pokeTeam = poketeamData.get({plain: true});
+
+    res.render('poketeam', {
+      ...pokeTeam,
+      logged_in: req.session.logged_in
+    });
+    
   } catch (err) {
     console.error("failed to retreive pokemon", err);
     res.status(500).json(err);
@@ -40,7 +54,7 @@ router.post("/", withAuth, async (req, res) => {
 // updates the team
 router.put("/:id", withAuth, async (req, res) => {
   try {
-    const pokeTeamData = await pokeTeam.update(req.body, {
+    const pokeTeamData = await PokeTeam.update(req.body, {
       where: {
         id: req.params.id,
       },
