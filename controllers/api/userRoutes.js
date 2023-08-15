@@ -1,5 +1,6 @@
 const router = require('express').Router();
 const { User } = require('../../models');
+const withAuth = require('../../utils/auth');
 
 router.post('/', async (req, res) => {
   try {
@@ -19,7 +20,7 @@ router.post('/', async (req, res) => {
 // login post
 router.post('/login', async (req, res) => {
   try {
-    const userData = await User.findOne({ where: { name: req.body.name } });
+    const userData = await User.findOne({ where: { email: req.body.email } });
 
     if (!userData) {
       res
@@ -60,5 +61,10 @@ router.post('/logout', (req, res) => {
     res.status(404).end();
   }
 });
+router.get('/profile', withAuth, (req, res) => {
+  if (req.session.logged_in){
+  res.render('profile');
+  }
+})
 
 module.exports = router;
