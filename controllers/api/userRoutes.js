@@ -16,6 +16,7 @@ router.post('/', async (req, res) => {
   }
 });
 
+// login post
 router.post('/login', async (req, res) => {
   try {
     const userData = await User.findOne({ where: { name: req.body.name } });
@@ -48,6 +49,8 @@ router.post('/login', async (req, res) => {
   }
 });
 
+
+//logout post
 router.post('/logout', (req, res) => {
   if (req.session.logged_in) {
     req.session.destroy(() => {
