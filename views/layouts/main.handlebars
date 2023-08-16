@@ -17,20 +17,20 @@
     <div class="flex-column justify-space-around">
       <header class="display-flex justify-space-between align-center p-2">
         <h1>
-          <a class="animate__animated animate__bounce"href="/">BulbaSort!</a>
+          <a class="animate__animated animate__bounce outlined-text "href="/">BulbaSort!</a>
         </h1>
-        <nav>
+        <nav">
           <!-- Conditionally render login or logout links -->
           {{#if logged_in}}
-            <a href="/api/users/profile">Profile</a>
-            <a href="/api/users/create">create team</a>
+            <a class="outlined-text" href="/api/users/profile">Profile</a>
+            <a class="outlined-text" href="/api/users/create">create team</a>
             
             <button class="no-button" id="logout">logout</button>
 
             
             
           {{else}}
-            <a href="/login">login</a>
+            <a class="outlined-text" href="/login">login</a>
             
           {{/if}}
         </nav>

@@ -54,8 +54,9 @@ header {
 
 
 
-
-
+ .outlined-text {
+  -webkit-text-fill-color: rgb(255, 208, 0);
+ }
 
 
 .card {
