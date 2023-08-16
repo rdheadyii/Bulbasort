@@ -5,14 +5,60 @@ header {
      background-position: center center;
      background-size: contain; 
  } 
- body {
+ body { 
+    animation: bounce; /* referring directly to the animation's @keyframe declaration */
+    animation-duration: 2s; /* don't forget to set a duration! */
     background-image: url('/assets/pokeball.jpg');
      background-repeat: no-repeat;
      background-position: center center;
      background-size: cover; 
  }
 
- .card {
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.card {
     width: 300px;
     border: 1px solid #ccc;
     border-radius: 8px;
