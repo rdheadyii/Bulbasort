@@ -11,11 +11,11 @@ PokeTeam.init(
             primaryKey: true,
             autoIncrement: true
         },
-        pokemon_id: {
-            type: DataTypes.INTEGER,
+        pokemon_name: {
+            type: DataTypes.STRING,
             references: {
                 model: 'pokemon',
-                key: 'id'
+                key: 'name'
             }
         },
         team_id: {
@@ -32,6 +32,11 @@ PokeTeam.init(
         freezeTableName: true,
         underscored: true,
         modelName: 'poketeam',
+        indexes: [
+            {
+                fields: ['pokemon_name']
+            }
+        ]
     }
 );
 

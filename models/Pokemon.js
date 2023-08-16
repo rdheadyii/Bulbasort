@@ -30,6 +30,11 @@ Pokemon.init({
     freezeTableName: true,
     underscored: true,
     modelName: 'pokemon',
+    indexes: [
+      {
+        fields: ['name']
+      }
+    ]
     }
 );
 module.exports = Pokemon;
