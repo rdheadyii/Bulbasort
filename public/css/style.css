@@ -1,9 +1,9 @@
 header {
 
-     background-image: url('/assets/pokeball.jpg');
+     background-image: url('/assets/pngwing.com.png');
      background-repeat: no-repeat;
      background-position: center center;
-     background-size: cover; 
+     background-size: contain; 
  } 
  body {
     background-image: url('/assets/pokeball.jpg');
