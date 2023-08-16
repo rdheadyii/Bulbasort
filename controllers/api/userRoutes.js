@@ -1,5 +1,5 @@
 const router = require('express').Router();
-const { User } = require('../../models');
+const { User, Team } = require('../../models');
 const withAuth = require('../../utils/auth');
 
 router.post('/', async (req, res) => {
@@ -61,13 +61,39 @@ router.post('/logout', (req, res) => {
     res.status(404).end();
   }
 });
-router.get('/profile', withAuth, (req, res) => {
-  if (req.session.logged_in){
-  res.render('profile', {
-    logged_in: req.session.logged_in
-  });
-  }
-})
+
+// router.get('/profile', withAuth, (req, res) => {
+//   if (req.session.logged_in){
+//   res.render('profile', {
+//     logged_in: req.session.logged_in
+//   });
+//   }
+// })
+
+//including withAuth mid and associated data from db
+router.get('/profile', withAuth, async (req, res) => {
+  try {
+    const userData = await User.findByPk(req.session.user_id, {
+      attributes: { exclude: ['password']},
+      include: [
+        {
+          model: Team
+        }
+      ]
+    });
+    //double check user_id index?
+
+    const user = userData.get({ plain: true});
+    console.log(user);
+
+    res.render('profile', { user, logged_in: req.session.logged_in });
+  } catch (err) {
+    console.log("Error loading profile: ", err);
+    res.status(500).json(err);
+  } 
+});
+
+
 router.get('/create', withAuth, (req, res) => {
   if (req.session.logged_in){
   res.render('create', {
