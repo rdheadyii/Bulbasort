@@ -3,21 +3,43 @@ const { Team, PokeTeam, User } = require("../../models");
 const withAuth = require("../../utils/auth");
 
 // shows all teams
-router.get("/", async (req, res) => {
+// router.get("/", async (req, res) => {
+//   try {
+//     const teamData = await Team.findAll({});
+
+//     const teams = teamData.map((team) => team.get({plain: true}));
+
+//     res.render('team', {
+//       teams,
+//       logged_in: req.session.logged_in
+//     });
+
+//   } catch (err) {
+//     console.error("failed to retreive teams", err);
+//     res.status(500).json(err);
+//   }
+// });
+
+router.get('/', withAuth, async (req, res) => {
   try {
-    const teamData = await Team.findAll({});
-
-    const teams = teamData.map((team) => team.get({plain: true}));
-
-    res.render('team', {
-      teams,
-      logged_in: req.session.logged_in
+    const userData = await User.findByPk(req.session.user_id, {
+      attributes: { exclude: ['password']},
+      include: [
+        {
+          model: Team
+        }
+      ]
     });
+    //double check user_id index?
 
+    const user = userData.get({ plain: true});
+    console.log(user);
+
+    res.render('team', { user, logged_in: req.session.logged_in });
   } catch (err) {
-    console.error("failed to retreive teams", err);
+    console.log("Error loading profile: ", err);
     res.status(500).json(err);
-  }
+  } 
 });
 
 // shows specific team
