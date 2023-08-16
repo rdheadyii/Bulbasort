@@ -1,0 +1,14 @@
+header {
+
+     background-image: url('/assets/pokeball.jpg');
+     background-repeat: no-repeat;
+     background-position: center center;
+     background-size: cover; 
+ } 
+ body {
+    background-image: url('/assets/pokeball.jpg');
+     background-repeat: no-repeat;
+     background-position: center center;
+     background-size: cover; 
+ }
+ 
