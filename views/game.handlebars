@@ -1,7 +1,15 @@
 {{#each games as |game| }}
-<div>
+<div class="card">
+  <a href="/api/teams">
+  <img src="/assets/scar-and-violet.jpeg" alt="Card Image">
+  </a>
+</div>
+
+  <div class="card-content">
     <h2>
-        <a href="/api/teams/">{{game.name}}</a>
-    </h2>
+    <a class="card-description" href="/api/teams/">{{game.name}}</a>
+  </h2>
+    <p class="card-description">Pokémon Scarlet and Violet</p>
+  </div>
 </div>
 {{/each}}
