@@ -1,3 +1,11 @@
+<div>
+    <h1>Welcome, {{user.name}}!</h1>
+</div>
+
+<div>
+    <h2>Here are your list of teams</h2>
+</div>
+
 {{#each teams as |team| }}
 {{#if (eq user_id ../user_id)}}
 <div>
