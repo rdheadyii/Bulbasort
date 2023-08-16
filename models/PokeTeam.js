@@ -32,6 +32,11 @@ PokeTeam.init(
         freezeTableName: true,
         underscored: true,
         modelName: 'poketeam',
+        indexes: [
+            {
+                fields: ['pokemon_name']
+            }
+        ]
     }
 );
 
