@@ -6,8 +6,6 @@ header {
      background-size: contain; 
  } 
  body { 
-  
-  
     animation: bounce; /* referring directly to the animation's @keyframe declaration */
     animation-duration: 2s; /* don't forget to set a duration! */
     background-image: url('/assets/pokeball.jpg');
@@ -16,3 +14,77 @@ header {
      background-size: cover; 
  }
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.card {
+    width: 300px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    overflow: hidden;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    margin-top: 50px;
+  }
+  
+  .card img {
+    width: 100%;
+    height: auto;
+  }
+  
+  .card-content {
+    padding: 16px;
+    background-color: whitesmoke;
+  }
+  
+  .card-title {
+    font-size: 20px;
+    margin: 0 0 8px 0;
+  }
+  
+  .card-description {
+    font-size: 20px;
+    color: #666;
+    margin: 0;
+    color: purple;
+  }
