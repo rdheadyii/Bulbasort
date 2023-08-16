@@ -45,3 +45,8 @@ header {
     margin: 0;
     color: purple;
   }
+
+
+ .outlined-text {
+  -webkit-text-fill-color: rgb(255, 208, 0);
+ }
