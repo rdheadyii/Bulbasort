@@ -9,7 +9,7 @@ header {
  body { 
     /* animation: bounce; /* referring directly to the animation's @keyframe declaration 
     animation-duration: 1s; don't forget to set a duration! */
-    background-image: url('/assets/pokeball.jpg');
+    background-image: url('/assets/pokeback.jpg');
      background-repeat: no-repeat;
      background-position: center center;
      background-size: cover; 
