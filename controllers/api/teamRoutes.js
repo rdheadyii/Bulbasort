@@ -39,7 +39,7 @@ router.get("/:id", async (req, res) => {
 });
 
 // creates new team
-router.post("/", withAuth, async (req, res) => {
+router.post("/create", withAuth, async (req, res) => {
   try {
     const newTeam = await Team.create({
       ...req.body,

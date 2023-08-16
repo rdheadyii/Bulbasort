@@ -1,1 +1,16 @@
-<div>eat shit handlebars</div>
+{{#each teams as |team| }}
+{{#if (eq user_id ../user_id)}}
+<div>
+    <div>
+        <h2>
+            <a href="/api/poketeam/{{team.id}}">{{team.title}}</a>
+        </h2>
+    </div>
+    {{/if}}
+    <div>
+
+        
+    </div>
+</div>
+
+{{/each}}

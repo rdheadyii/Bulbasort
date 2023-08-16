@@ -66,5 +66,10 @@ router.get('/profile', withAuth, (req, res) => {
   res.render('profile');
   }
 })
+router.get('/create', withAuth, (req, res) => {
+  if (req.session.logged_in){
+  res.render('create');
+  }
+})
 
 module.exports = router;
