@@ -1,63 +1,19 @@
 header {
-
+    animation: bounce; /* referring directly to the animation's @keyframe declaration */
+    animation-duration: 1s; /* don't forget to set a duration! */
      background-image: url('/assets/pngwing.com.png');
      background-repeat: no-repeat;
      background-position: center center;
      background-size: contain; 
  } 
  body { 
-    animation: bounce; /* referring directly to the animation's @keyframe declaration */
-    animation-duration: 2s; /* don't forget to set a duration! */
+    /* animation: bounce; /* referring directly to the animation's @keyframe declaration 
+    animation-duration: 1s; don't forget to set a duration! */
     background-image: url('/assets/pokeball.jpg');
      background-repeat: no-repeat;
      background-position: center center;
      background-size: cover; 
  }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- .outlined-text {
-  -webkit-text-fill-color: rgb(255, 208, 0);
- }
-
 
 .card {
     width: 300px;
@@ -89,3 +45,8 @@ header {
     margin: 0;
     color: purple;
   }
+
+
+ .outlined-text {
+  -webkit-text-fill-color: rgb(255, 208, 0);
+ }
