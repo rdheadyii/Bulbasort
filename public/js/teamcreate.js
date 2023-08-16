@@ -2,7 +2,7 @@ const createTeamHandler = async (event) => {
     event.preventDefault();
   
     // Collect values from the team form
-    const title = document.querySelector('#team-name').value.trim();
+    const title = document.querySelector('#name').value.trim();
     const version = document.querySelector('#version').value.trim();
   
     if (title && version) {

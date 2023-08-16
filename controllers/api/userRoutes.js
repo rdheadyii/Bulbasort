@@ -63,12 +63,16 @@ router.post('/logout', (req, res) => {
 });
 router.get('/profile', withAuth, (req, res) => {
   if (req.session.logged_in){
-  res.render('profile');
+  res.render('profile', {
+    logged_in: req.session.logged_in
+  });
   }
 })
 router.get('/create', withAuth, (req, res) => {
   if (req.session.logged_in){
-  res.render('create');
+  res.render('create', {
+    logged_in: req.session.logged_in
+  });
   }
 })
 
