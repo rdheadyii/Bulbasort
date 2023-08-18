@@ -62,14 +62,6 @@ router.post('/logout', (req, res) => {
   }
 });
 
-// router.get('/profile', withAuth, (req, res) => {
-//   if (req.session.logged_in){
-//   res.render('profile', {
-//     logged_in: req.session.logged_in
-//   });
-//   }
-// })
-
 //including withAuth mid and associated data from db
 router.get('/profile', withAuth, async (req, res) => {
   try {
@@ -84,11 +76,9 @@ router.get('/profile', withAuth, async (req, res) => {
     //double check user_id index?
 
     const user = userData.get({ plain: true});
-    console.log(user);
 
     res.render('profile', { user, logged_in: req.session.logged_in });
   } catch (err) {
-    console.log("Error loading profile: ", err);
     res.status(500).json(err);
   } 
 });
