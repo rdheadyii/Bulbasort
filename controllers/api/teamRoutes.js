@@ -2,6 +2,7 @@ const router = require("express").Router();
 const { Team, PokeTeam, User } = require("../../models");
 const withAuth = require("../../utils/auth");
 
+// gets all teams by an inner join through the user id
 router.get('/', withAuth, async (req, res) => {
   try {
     const userData = await User.findByPk(req.session.user_id, {
